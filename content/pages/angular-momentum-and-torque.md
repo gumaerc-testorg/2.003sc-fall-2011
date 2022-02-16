@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Angular Momentum and Torque
 uid: a040d3e0-0e6a-0dff-a6b0-aad775496601
 ---

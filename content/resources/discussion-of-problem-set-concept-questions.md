@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Vibration Analysis by Mode Superposition
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Discussion of problem set concept questions
 uid: 56c1c105-0b14-74bf-aa4e-c41ff2322f38
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec26_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/0ee6d0cb0a95598aa294b20e7dc4745c_fK9AGvLf3yw.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/0ee6d0cb0a95598aa294b20e7dc4745c_fK9AGvLf3yw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/fK9AGvLf3yw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/c17f5833b9e7a77161f6bf59a8a1a773_fK9AGvLf3yw.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/c17f5833b9e7a77161f6bf59a8a1a773_fK9AGvLf3yw.pdf
 video_metadata:
   youtube_id: fK9AGvLf3yw
 ---

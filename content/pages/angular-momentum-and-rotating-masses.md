@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Angular Momentum and Rotating Masses
 uid: 5a443f4f-d020-ca36-4f90-db3463369b68
 ---

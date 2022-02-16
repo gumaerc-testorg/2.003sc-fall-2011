@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Velocity, Acceleration, and Rotational Motion
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Problem solving with an example of a block on a slope
 uid: 21261640-4ded-d0ea-1897-7a7b42a8242c
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec03_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/ce994561e6fb504a9354dbfbfb1ff4fb_d00XI_UTKQo.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/ce994561e6fb504a9354dbfbfb1ff4fb_d00XI_UTKQo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/d00XI_UTKQo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/94b2d66c62643788324e2916a0e54b09_d00XI_UTKQo.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/94b2d66c62643788324e2916a0e54b09_d00XI_UTKQo.pdf
 video_metadata:
   youtube_id: d00XI_UTKQo
 ---

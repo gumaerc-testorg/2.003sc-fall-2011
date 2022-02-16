@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Mechanical Vibration
 uid: 56828116-6798-4acb-bfaa-7d752c91ca91
 ---

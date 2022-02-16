@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Quiz 1
 uid: 287a0995-df2a-cc70-e6eb-9b2dc7a86f9d
 ---

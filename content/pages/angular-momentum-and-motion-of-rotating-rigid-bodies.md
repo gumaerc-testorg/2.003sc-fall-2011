@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Angular Momentum and Motion of Rotating Rigid Bodies
 uid: 56c852b3-74a3-02bc-a7e7-ed5c15fa36ac
 ---

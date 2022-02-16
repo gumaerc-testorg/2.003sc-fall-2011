@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Reducing Problem Vibration and Intro to Multi-DOF Vibration
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Matlab simulation of the response of the 2 DOF system to initial conditions
 uid: d815a4fa-1d42-9379-1e9b-f624ddda5ee1
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec22_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/aad5a3e8a00b59d3981a0002dec11b3a_9CPA6WG6mRo.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/aad5a3e8a00b59d3981a0002dec11b3a_9CPA6WG6mRo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/9CPA6WG6mRo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/72bcbfdfb9ad415d5fbaa164fd10432d_9CPA6WG6mRo.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/72bcbfdfb9ad415d5fbaa164fd10432d_9CPA6WG6mRo.pdf
 video_metadata:
   youtube_id: 9CPA6WG6mRo
 ---

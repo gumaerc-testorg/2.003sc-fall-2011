@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Finding Equations of Motion for Rigid Body Rotation
 uid: 9fdc3853-8645-b3ee-78bf-504125c7ccf2
 ---

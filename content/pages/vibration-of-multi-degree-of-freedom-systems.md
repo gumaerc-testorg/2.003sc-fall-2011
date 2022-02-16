@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Vibration of Multi-Degree-of-Freedom Systems
 uid: c9bc5d26-e2c3-014e-ae82-f96f3f7633d2
 ---

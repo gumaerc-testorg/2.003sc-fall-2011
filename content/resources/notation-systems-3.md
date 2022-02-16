@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Notation Systems
 uid: dc699c2e-208b-9f99-d059-d17e0a21647c
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec14b_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/832184e2a226538590248cb346718142_zlbbbA5Uuu8.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/832184e2a226538590248cb346718142_zlbbbA5Uuu8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/zlbbbA5Uuu8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/b4d73ee5468d44fd7b4c2c0a7883658f_zlbbbA5Uuu8.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/b4d73ee5468d44fd7b4c2c0a7883658f_zlbbbA5Uuu8.pdf
 video_metadata:
   youtube_id: zlbbbA5Uuu8
 ---

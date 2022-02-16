@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lagrange Equations
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Notation Systems
 uid: eb92bce4-ccea-8e0a-43ab-4375d15d62ed
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec14b_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/73c74e0e60fb5b89b550e18b8230c460_zlbbbA5Uuu8.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/73c74e0e60fb5b89b550e18b8230c460_zlbbbA5Uuu8.vtt
   video_thumbnail_file: https://img.youtube.com/vi/zlbbbA5Uuu8/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/86d2c21ef4d1df3ffe82b5d11bbe4814_zlbbbA5Uuu8.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/86d2c21ef4d1df3ffe82b5d11bbe4814_zlbbbA5Uuu8.pdf
 video_metadata:
   youtube_id: zlbbbA5Uuu8
 ---

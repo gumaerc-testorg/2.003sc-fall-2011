@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 24: Modal Analysis: Orthogonality, Mass Stiffness, Damping Matrix'
 uid: 2665f6da-0404-60fe-bf82-4ccdaaeebbfb
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec24_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/a4827c2e15ba526abd6236348c8873f5_OxcCPTc_bXw.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/a4827c2e15ba526abd6236348c8873f5_OxcCPTc_bXw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/OxcCPTc_bXw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/45fe489639496aff3aec8774a29f7f77_OxcCPTc_bXw.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/45fe489639496aff3aec8774a29f7f77_OxcCPTc_bXw.pdf
 video_metadata:
   youtube_id: OxcCPTc_bXw
 ---

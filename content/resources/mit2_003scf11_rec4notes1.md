@@ -2,8 +2,12 @@
 content_type: resource
 description: 'This file contains information regarding recitation 4 notes: torque
   and angular momentum, pendulum with torsional spring, rolling pipe on moving truck.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/4c2665fb93f4a3e1e725c675a5afa793_MIT2_003SCF11_rec4notes1.pdf
+file: /media/courses/2-003sc-engineering-dynamics-fall-2011/4c2665fb93f4a3e1e725c675a5afa793_MIT2_003SCF11_rec4notes1.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Free Body Diagrams and Fictitious Forces
+parent_type: CourseSection
 resourcetype: Document
 title: 'Recitation 4 Notes: Torque and Angular Momentum, Pendulum with Torsional Spring,
   Rolling Pipe on Moving Truck'

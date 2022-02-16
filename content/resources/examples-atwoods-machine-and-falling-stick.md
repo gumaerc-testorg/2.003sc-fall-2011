@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lagrange Equations Continued
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Examples: Atwood''s machine and falling stick'
 uid: 14b8184b-4e87-fe71-59f2-f9a0bbd73727
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec17_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/e52df7ace80b5f87a13baa7c03f40b36_cd8lDtAtJbE.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/e52df7ace80b5f87a13baa7c03f40b36_cd8lDtAtJbE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/cd8lDtAtJbE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/4206160e452185aa9d8c5fc8ad9233e0_cd8lDtAtJbE.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/4206160e452185aa9d8c5fc8ad9233e0_cd8lDtAtJbE.pdf
 video_metadata:
   youtube_id: cd8lDtAtJbE
 ---

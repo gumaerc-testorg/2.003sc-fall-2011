@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Vibration Analysis by Mode Superposition
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 27: Vibration of Continuous Structures: Strings, Beams, Rods, etc.'
 uid: 7b7b2fcf-bbb2-858e-b004-0fa59a0ade0e
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec27_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/76804d09292852fc98ea72ab6fe86608_1xJJu5p3dD0.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/76804d09292852fc98ea72ab6fe86608_1xJJu5p3dD0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/1xJJu5p3dD0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/f8cb3db82cac27914603d240e7772f7e_1xJJu5p3dD0.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/f8cb3db82cac27914603d240e7772f7e_1xJJu5p3dD0.pdf
 video_metadata:
   youtube_id: 1xJJu5p3dD0
 ---

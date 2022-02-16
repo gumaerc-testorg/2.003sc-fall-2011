@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Vibration of Multi-Degree-of-Freedom Systems
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Response to initial conditions using modal analysis
 uid: 82678d14-f4ac-8028-e4dc-ad4bf4419d14
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec24_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/a84609ee41e4590ea19524db8b3f0625_OxcCPTc_bXw.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/a84609ee41e4590ea19524db8b3f0625_OxcCPTc_bXw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/OxcCPTc_bXw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/abb273905be7983bf3b28d9597e77a03_OxcCPTc_bXw.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/abb273905be7983bf3b28d9597e77a03_OxcCPTc_bXw.pdf
 video_metadata:
   youtube_id: OxcCPTc_bXw
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Lagrange Equations
 uid: 80655e0a-6d9a-14f6-5217-66094b07db0c
 ---

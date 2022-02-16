@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Vibration Analysis by Mode Superposition
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Demonstration of wave propagation on a long string
 uid: b84b26df-7394-14e2-8d4d-28cb8d372c87
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec27_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/bc10d0611a515ff7bfd6fc1bc912edd7_1xJJu5p3dD0.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/bc10d0611a515ff7bfd6fc1bc912edd7_1xJJu5p3dD0.vtt
   video_thumbnail_file: https://img.youtube.com/vi/1xJJu5p3dD0/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/204bdc988d742e57130f5fdd30434c52_1xJJu5p3dD0.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/204bdc988d742e57130f5fdd30434c52_1xJJu5p3dD0.pdf
 video_metadata:
   youtube_id: 1xJJu5p3dD0
 ---

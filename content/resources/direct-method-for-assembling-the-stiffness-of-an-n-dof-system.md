@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Vibration Analysis by Mode Superposition
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Direct method for assembling the stiffness of an N DOF system
 uid: 64d8b942-0664-67c2-dab6-fd24c326da93
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec25_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/8103cb83ff8c5bfc9a303905b7509f13_p9DHjoLS3GA.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/8103cb83ff8c5bfc9a303905b7509f13_p9DHjoLS3GA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/p9DHjoLS3GA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/de7cfb09ca21791545aaa98e402145af_p9DHjoLS3GA.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/de7cfb09ca21791545aaa98e402145af_p9DHjoLS3GA.pdf
 video_metadata:
   youtube_id: p9DHjoLS3GA
 ---

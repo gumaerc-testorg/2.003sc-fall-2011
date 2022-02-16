@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Mechanical Vibration
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Experimental determination of damping ratio
 uid: 65251178-0aee-428c-e6ec-bf79f75b56b0
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/0b91057cd4915148bb4cdeaf9e357ed0_wzEqF_UQkks.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/0b91057cd4915148bb4cdeaf9e357ed0_wzEqF_UQkks.vtt
   video_thumbnail_file: https://img.youtube.com/vi/wzEqF_UQkks/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/2d711716e60c2e06ca9b95f21658238e_wzEqF_UQkks.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/2d711716e60c2e06ca9b95f21658238e_wzEqF_UQkks.pdf
 video_metadata:
   youtube_id: wzEqF_UQkks
 ---

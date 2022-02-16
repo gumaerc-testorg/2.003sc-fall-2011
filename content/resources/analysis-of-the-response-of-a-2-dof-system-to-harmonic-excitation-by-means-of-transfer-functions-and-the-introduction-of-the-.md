@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Vibration Analysis by Mode Superposition
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Analysis of the response of a 2-DOF system to harmonic excitation by means
   of transfer functions and the introduction of the application of the dynamic absorber
@@ -9,9 +16,9 @@ title: Analysis of the response of a 2-DOF system to harmonic excitation by mean
 uid: 928efb01-1e81-a8ec-22a4-f91c4a6464dc
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec26_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/d59b81083db75450a12892ad33fb6edd_fK9AGvLf3yw.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/d59b81083db75450a12892ad33fb6edd_fK9AGvLf3yw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/fK9AGvLf3yw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/33c73e33098051611d1ab1908c033e88_fK9AGvLf3yw.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/33c73e33098051611d1ab1908c033e88_fK9AGvLf3yw.pdf
 video_metadata:
   youtube_id: fK9AGvLf3yw
 ---

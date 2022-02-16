@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 5: Impulse, Torque, and Angular Momentum for a System of Particles'
 uid: 9845181c-185c-e6f2-ad9a-340013b545f3
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec05_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/d7d0d4c7c8f357ab91649639a2708432_NHedXxUO-Bg.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/d7d0d4c7c8f357ab91649639a2708432_NHedXxUO-Bg.vtt
   video_thumbnail_file: https://img.youtube.com/vi/NHedXxUO-Bg/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/51f7aa7aa145b76eacc3269e62730cf1_NHedXxUO-Bg.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/51f7aa7aa145b76eacc3269e62730cf1_NHedXxUO-Bg.pdf
 video_metadata:
   youtube_id: NHedXxUO-Bg
 ---

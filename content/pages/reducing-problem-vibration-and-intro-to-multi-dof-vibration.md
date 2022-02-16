@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Reducing Problem Vibration and Intro to Multi-DOF Vibration
 uid: 4479bfdd-0c9f-9aa1-d70c-3af5c347e198
 ---

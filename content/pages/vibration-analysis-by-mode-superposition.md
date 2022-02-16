@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Vibration Analysis by Mode Superposition
 uid: dcb2cda1-7e74-304f-15d8-a1aecb3cab44
 ---

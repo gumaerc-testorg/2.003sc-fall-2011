@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 25: Modal Analysis: Response to IC''s and to Harmonic Forces'
 uid: c85900e8-08c7-6b7f-33cd-dd7146ef7320
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec25_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/5280144b354f51299b08366f4db68e03_p9DHjoLS3GA.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/5280144b354f51299b08366f4db68e03_p9DHjoLS3GA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/p9DHjoLS3GA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/8c2ec6c140d82a05f7ec59ca89556acb_p9DHjoLS3GA.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/8c2ec6c140d82a05f7ec59ca89556acb_p9DHjoLS3GA.pdf
 video_metadata:
   youtube_id: p9DHjoLS3GA
 ---

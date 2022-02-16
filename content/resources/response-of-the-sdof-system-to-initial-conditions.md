@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Mechanical Vibration
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Response of the SDOF system to initial conditions
 uid: 19cb2176-ef7a-93e1-1599-ffa361146c84
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec19_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/0844c506c724504785f4e5fb607fb7d1_9_d8CQrCYUw.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/0844c506c724504785f4e5fb607fb7d1_9_d8CQrCYUw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/9_d8CQrCYUw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/11a99254cdbaed7aa487821a6dbb3474_9_d8CQrCYUw.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/11a99254cdbaed7aa487821a6dbb3474_9_d8CQrCYUw.pdf
 video_metadata:
   youtube_id: 9_d8CQrCYUw
 ---

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 8: Fictitious Forces and Rotating Mass'
 uid: d1cbff35-01cc-ae6c-6e9a-a8b0d9eb3f29
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec08_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/8e4a22c1be31586180c8adac0e688caa_zNCBDrnT05E.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/8e4a22c1be31586180c8adac0e688caa_zNCBDrnT05E.vtt
   video_thumbnail_file: https://img.youtube.com/vi/zNCBDrnT05E/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/147f816e43e3c51e6fd47989345c043e_zNCBDrnT05E.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/147f816e43e3c51e6fd47989345c043e_zNCBDrnT05E.pdf
 video_metadata:
   youtube_id: zNCBDrnT05E
 ---

@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Reducing Problem Vibration and Intro to Multi-DOF Vibration
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Finding the modes shapes of the 2 DOF system
 uid: cae9c8d1-9c29-3248-5b9c-82097393bd7b
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec22_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/5aaa050a12e3573fa5b7c7bf511efb0f_9CPA6WG6mRo.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/5aaa050a12e3573fa5b7c7bf511efb0f_9CPA6WG6mRo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/9CPA6WG6mRo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/638045399de847e5c734bc65d35328f1_9CPA6WG6mRo.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/638045399de847e5c734bc65d35328f1_9CPA6WG6mRo.pdf
 video_metadata:
   youtube_id: 9CPA6WG6mRo
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Quiz Review Lecture & Quiz 2
 uid: 21b71eee-4a0c-1deb-931f-920a7dafbd5c
 ---

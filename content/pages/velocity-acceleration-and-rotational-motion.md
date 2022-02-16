@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Velocity, Acceleration, and Rotational Motion
 uid: d479c0ac-1170-243d-23ce-3aa59b83a427
 ---

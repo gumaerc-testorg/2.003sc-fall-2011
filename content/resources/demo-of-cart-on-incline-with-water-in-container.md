@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Free Body Diagrams and Fictitious Forces
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Demo of cart on incline with water in container
 uid: 7c87f4ea-ada6-1dc4-d6c4-cd15a58d6be5
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec08_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/6e669813895f501fb946c006cfa34bf0_zNCBDrnT05E.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/6e669813895f501fb946c006cfa34bf0_zNCBDrnT05E.vtt
   video_thumbnail_file: https://img.youtube.com/vi/zNCBDrnT05E/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/1e19545d8eb4bdf1a83794e39e68c48d_zNCBDrnT05E.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/1e19545d8eb4bdf1a83794e39e68c48d_zNCBDrnT05E.pdf
 video_metadata:
   youtube_id: zNCBDrnT05E
 ---

@@ -2,15 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lagrange Equations Continued
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Kinematic approach to finding generalized forces Example of a wheel on moving
   cart with an incline
 uid: 555b36c4-47b1-b33d-3b91-acad2c6af474
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec16_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/4961bc241e7f536b93f3dd345123d8cd_lFedznDnPZc.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/4961bc241e7f536b93f3dd345123d8cd_lFedznDnPZc.vtt
   video_thumbnail_file: https://img.youtube.com/vi/lFedznDnPZc/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/b0b46fbb66b7fccf08ce8b234e7f6890_lFedznDnPZc.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/b0b46fbb66b7fccf08ce8b234e7f6890_lFedznDnPZc.pdf
 video_metadata:
   youtube_id: lFedznDnPZc
 ---

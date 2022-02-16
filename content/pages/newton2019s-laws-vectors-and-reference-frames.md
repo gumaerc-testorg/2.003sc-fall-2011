@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Newton's Laws, Vectors, and Reference Frames
 uid: 70dbfa93-e140-9409-6311-b3641daa05ef
 ---

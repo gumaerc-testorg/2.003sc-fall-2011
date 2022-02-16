@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Angular Momentum and Rotating Masses
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Angular momentum for rigid bodies and the mass moment of inertia matrix, [I]
 uid: f3ae02fe-bbce-9190-2e03-c13fd1142b49
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec10_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/66c0742a660e5cb197021c1ca2117da6_Fo-Y6kEMURk.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/66c0742a660e5cb197021c1ca2117da6_Fo-Y6kEMURk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/Fo-Y6kEMURk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/687f26c0fabfdeef54d6e7a2a18edd9a_Fo-Y6kEMURk.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/687f26c0fabfdeef54d6e7a2a18edd9a_Fo-Y6kEMURk.pdf
 video_metadata:
   youtube_id: Fo-Y6kEMURk
 ---

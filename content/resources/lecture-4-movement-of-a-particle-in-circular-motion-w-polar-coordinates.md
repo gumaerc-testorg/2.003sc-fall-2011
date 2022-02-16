@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Velocity, Acceleration, and Rotational Motion
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Movement of a Particle in Circular Motion w/ Polar Coordinates'
 uid: ef90202c-b1b9-771f-83f3-ead13f9b6b53
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/8d7ddd34fc0c5adfb3e15355bbd53fed_iMz0LiqjFmE.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/8d7ddd34fc0c5adfb3e15355bbd53fed_iMz0LiqjFmE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/iMz0LiqjFmE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/31e94face598a1eaf1da755949c19d62_iMz0LiqjFmE.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/31e94face598a1eaf1da755949c19d62_iMz0LiqjFmE.pdf
 video_metadata:
   youtube_id: iMz0LiqjFmE
 ---

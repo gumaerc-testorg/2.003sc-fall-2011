@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Mechanical Vibration
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Introduction to the single degree of freedom (SDOF) system
 uid: 00639d2f-a379-2bbb-0065-3ff38a91235c
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec19_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/d5af238833255417aae91970972cc197_9_d8CQrCYUw.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/d5af238833255417aae91970972cc197_9_d8CQrCYUw.vtt
   video_thumbnail_file: https://img.youtube.com/vi/9_d8CQrCYUw/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/926d33677df9c5da7598c4a7a4c037f4_9_d8CQrCYUw.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/926d33677df9c5da7598c4a7a4c037f4_9_d8CQrCYUw.pdf
 video_metadata:
   youtube_id: 9_d8CQrCYUw
 ---

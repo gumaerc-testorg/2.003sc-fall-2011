@@ -2,7 +2,7 @@
 content_type: resource
 description: Postage stamp of Joseph-Louis Lagrange to honor the French mathematician
   who derived the Lagrange equations. Public domain image.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/d2db8515a984ed8c01c0424cade28213_sess08_th.jpg
+file: /media/courses/2-003sc-engineering-dynamics-fall-2011/d2db8515a984ed8c01c0424cade28213_sess08_th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Postage stamp of Joseph-Louis Lagrange to honor the French mathematician
@@ -10,6 +10,10 @@ image_metadata:
   credit: Public domain image.
   image-alt: Image of a postage stamp with a portrait of the French mathematician
     Lagrange.
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: Lagrange Equations
+parent_type: CourseSection
 resourcetype: Image
 title: sess08_th.jpg
 uid: d2db8515-a984-ed8c-01c0-424cade28213

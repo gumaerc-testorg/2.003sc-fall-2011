@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Mechanical Vibration
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Finding the response of a pendulum to initial conditions
 uid: 0d4f8da3-9b62-9474-8abc-2096650db35d
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/43027bcf7388505587415d4411e4f8df_wzEqF_UQkks.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/43027bcf7388505587415d4411e4f8df_wzEqF_UQkks.vtt
   video_thumbnail_file: https://img.youtube.com/vi/wzEqF_UQkks/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/1f3f8a27fc9047a5119296a880fcf44c_wzEqF_UQkks.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/1f3f8a27fc9047a5119296a880fcf44c_wzEqF_UQkks.pdf
 video_metadata:
   youtube_id: wzEqF_UQkks
 ---

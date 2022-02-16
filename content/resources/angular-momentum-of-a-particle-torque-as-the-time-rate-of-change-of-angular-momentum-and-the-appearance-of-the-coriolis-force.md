@@ -2,15 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Velocity, Acceleration, and Rotational Motion
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Angular momentum of a particle, torque as the time rate of change of angular
   momentum, and the appearance of the coriolis force
 uid: b4fa67d6-ee50-0956-26e0-6f38203b6b3b
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec04_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/6e683b8a5f2a50df8f97929976dd4b08_iMz0LiqjFmE.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/6e683b8a5f2a50df8f97929976dd4b08_iMz0LiqjFmE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/iMz0LiqjFmE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/cdda7762c052035611cb22d078473494_iMz0LiqjFmE.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/cdda7762c052035611cb22d078473494_iMz0LiqjFmE.pdf
 video_metadata:
   youtube_id: iMz0LiqjFmE
 ---

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Free Body Diagrams and Fictitious Forces
 uid: 49b2e57b-25e7-8f5e-7535-7bd01348a8e1
 ---

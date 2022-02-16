@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lagrange Equations Continued
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Generic pendulum by Lagrange
 uid: 1f4ce817-2389-8bbe-c3aa-8ad261335599
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec17_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/730d64ba4d705d9da000ded2a5ccda37_cd8lDtAtJbE.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/730d64ba4d705d9da000ded2a5ccda37_cd8lDtAtJbE.vtt
   video_thumbnail_file: https://img.youtube.com/vi/cd8lDtAtJbE/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/64a44e126af4985fd1320025399dd0a2_cd8lDtAtJbE.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/64a44e126af4985fd1320025399dd0a2_cd8lDtAtJbE.pdf
 video_metadata:
   youtube_id: cd8lDtAtJbE
 ---

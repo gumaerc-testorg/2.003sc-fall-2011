@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Mechanical Vibration
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Demonstration of a beam with a rotating mass shaker
 uid: 3f98742b-e1d4-ac2c-0511-fe23d2982c18
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec20_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/23a9d084884455f8937387408be15458_wzEqF_UQkks.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/23a9d084884455f8937387408be15458_wzEqF_UQkks.vtt
   video_thumbnail_file: https://img.youtube.com/vi/wzEqF_UQkks/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/a3558147ee8f85baeaac34a80cbcabbc_wzEqF_UQkks.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/a3558147ee8f85baeaac34a80cbcabbc_wzEqF_UQkks.pdf
 video_metadata:
   youtube_id: wzEqF_UQkks
 ---

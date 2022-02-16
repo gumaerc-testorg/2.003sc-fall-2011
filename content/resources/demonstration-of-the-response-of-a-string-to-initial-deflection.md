@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Vibration Analysis by Mode Superposition
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Demonstration of the response of a string to initial deflection
 uid: 36b26062-8d5d-76ed-7379-89fb24d36e6e
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec25_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/dee1f39d5c2853b9b310bdf0ccae3793_p9DHjoLS3GA.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/dee1f39d5c2853b9b310bdf0ccae3793_p9DHjoLS3GA.vtt
   video_thumbnail_file: https://img.youtube.com/vi/p9DHjoLS3GA/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/c6e92f4191b79ca7a185008be6dfe1cb_p9DHjoLS3GA.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/c6e92f4191b79ca7a185008be6dfe1cb_p9DHjoLS3GA.pdf
 video_metadata:
   youtube_id: p9DHjoLS3GA
 ---

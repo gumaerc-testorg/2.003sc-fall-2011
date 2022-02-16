@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/3bcd3021c43c8ca56d21e7a27d0b0d87_f1pxiNDTyHc.srt
+file: /media/courses/2-003sc-engineering-dynamics-fall-2011/3bcd3021c43c8ca56d21e7a27d0b0d87_f1pxiNDTyHc.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 3bcd3021-c43c-8ca5-6d21-e7a27d0b0d87

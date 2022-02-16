@@ -2,14 +2,21 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Resource Index
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 3: Motion of Center of Mass; Acceleration in Rotating Ref. Frames'
 uid: 94883919-03b9-bdd3-3eca-9b01a0cc0fad
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec03_300k.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/be076b1881fa5b47898915601e93ae82_d00XI_UTKQo.vtt
+  video_captions_file: /courses/2-003sc-engineering-dynamics-fall-2011/be076b1881fa5b47898915601e93ae82_d00XI_UTKQo.vtt
   video_thumbnail_file: https://img.youtube.com/vi/d00XI_UTKQo/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/6674f774e2bddc77c6d235ef9d10e1cf_d00XI_UTKQo.pdf
+  video_transcript_file: /courses/2-003sc-engineering-dynamics-fall-2011/6674f774e2bddc77c6d235ef9d10e1cf_d00XI_UTKQo.pdf
 video_metadata:
   youtube_id: d00XI_UTKQo
 ---

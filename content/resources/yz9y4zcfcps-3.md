@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-003sc-engineering-dynamics-fall-2011/238fdd165afa7c46ca57a20fac74ccfe_YZ9y4zcfCPs.pdf
+file: /media/courses/2-003sc-engineering-dynamics-fall-2011/238fdd165afa7c46ca57a20fac74ccfe_YZ9y4zcfCPs.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 238fdd16-5afa-7c46-ca57-a20fac74ccfe
