@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Free Body Diagrams and Fictitious Forces
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 4: Free Body Diagrams'
 uid: ed83378d-868e-e541-59d9-457dfab98fa8
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation reviews free body diagrams and covers a problem with a torsional spring pendulum followed by a second problem with a rolling pipe on an accelerating truck.
 
 **Instructor:** Kim Vandiver
+
+
+

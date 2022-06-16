@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lagrange Equations Continued
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 9: Generalized Forces'
 uid: dba6ce3a-448b-1e0c-352c-11688878bf64
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation covers generalized forces in a double pendulum. Questions are also addressed for an upcoming quiz.
 
 **Instructor:** Kim Vandiver
+
+
+

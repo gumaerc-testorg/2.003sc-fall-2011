@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4282'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Motion of Rotating Rigid Bodies
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '680'
 title: 'Class 2:  Fixed axis rotation not through center of mass-pendulum example '
 uid: eea25f6a-d1e9-cb0d-856c-21da6a746b98
 video_files:
@@ -29,3 +32,6 @@ video_metadata:
 *   rotation about moving points.
 
 **Instructor:** J. Kim Vandiver
+
+
+

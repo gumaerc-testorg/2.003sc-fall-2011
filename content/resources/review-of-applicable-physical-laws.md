@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '3833'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Finding Equations of Motion for Rigid Body Rotation
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '21'
 title: Review of applicable physical laws
 uid: cab9b707-9a16-f588-971f-4e3b2ebc7190
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver starts with a review of applicable physical laws; he then goes over an example Class 4 problem with moving points of constraint, the tipping box problem, an alternative form of Euler's equation, and ends with a question and answer period.
 
 **Instructor:** J. Kim Vandiver
+
+
+

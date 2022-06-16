@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Vibration of Multi-Degree-of-Freedom Systems
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 24: Modal Analysis: Orthogonality, Mass Stiffness, Damping Matrix'
 uid: b90479cc-8173-c0c4-f42d-2ffcf5a717a4
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the modal expansion theorem, computing mass and stiffness matrices, obtaining uncoupled equations of motion, modal initial conditions, damping in modal analysis, Rayleigh damping, and experimental fitting of damping ratios.
 
 **Instructor:** J. Kim Vandiver
+
+
+

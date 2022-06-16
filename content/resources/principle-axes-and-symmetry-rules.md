@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4198'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Motion of Rotating Rigid Bodies
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1269'
 title: Principle axes and symmetry rules
 uid: edbf6df1-b5d2-5e41-8d7d-9fd4a04093df
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the definition of the moment of inertia matrix, principle axes and symmetry rules, example computation of Izz for a disk, and the parallel axis theorem.
 
 **Instructor:** J. Kim Vandiver
+
+
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4333'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Vibration Analysis by Mode Superposition
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '25'
 title: Demonstration of wave propagation on a long string
 uid: b84b26df-7394-14e2-8d4d-28cb8d372c87
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over wave propagation on a long string, flow-induced vibration of long strings and beams, application of the wave equation to rods, organ pipes, shower stalls with demonstrations, and vibration of beams (dispersion in wave propagation).
 
 **Instructor:** J. Kim Vandiver
+
+
+

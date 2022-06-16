@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4982'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Reducing Problem Vibration and Intro to Multi-DOF Vibration
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '2563'
 title: Matlab simulation of the response of the 2 DOF system to initial conditions
 uid: d815a4fa-1d42-9379-1e9b-f624ddda5ee1
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Gossard goes over obtaining the equations of motion of a 2 DOF system, finding natural frequencies by the characteristic equation, finding mode shapes; he then demonstrates via Matlab simulation and a real 2 DOF system response to initial conditions.
 
 **Instructor:** J. Kim Vandiver
+
+
+

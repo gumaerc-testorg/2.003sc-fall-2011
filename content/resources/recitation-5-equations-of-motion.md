@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Rotating Masses
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 5: Equations of Motion'
 uid: d394e0b1-fc13-8047-1093-6b0a204344e2
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation reviews free body diagram strategies, covers equations of motion for multiple degree-of-freedom systems, and addresses a dynamically balanced system.
 
 **Instructor:** Kim Vandiver
+
+
+

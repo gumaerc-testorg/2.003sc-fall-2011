@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4913'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Vibration of Multi-Degree-of-Freedom Systems
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '21'
 title: The modal expansion theorem
 uid: 0d6b4c53-21c8-4ae5-8d1e-fcffb77ecdee
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the modal expansion theorem, computing mass and stiffness matrices, obtaining uncoupled equations of motion, modal initial conditions, damping in modal analysis, Rayleigh damping, and experimental fitting of damping ratios.
 
 **Instructor:** J. Kim Vandiver
+
+
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4555'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Mechanical Vibration
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '2423'
 title: Steady state linear system response to harmonic input
 uid: 51653380-e216-d86d-e68f-6650f8d5f81a
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the damped response of spring-mass-dashpot system to ICs, the ballistic pendulum example, experimental determination of damping ratio, steady state linear system response to harmonic input, and a beam with a rotating mass shaker.
 
 **Instructor:** J. Kim Vandiver
+
+
+

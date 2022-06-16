@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Resource Index
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 10: Steady State Dynamics'
 uid: 0cdc62ed-5f87-423c-1f6a-26dad852c3da
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation covers a steady state frequency response problem.
 
 **Instructor:** Kim Vandiver
+
+
+

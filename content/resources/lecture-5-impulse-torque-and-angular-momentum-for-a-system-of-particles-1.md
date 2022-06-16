@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Resource Index
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Impulse, Torque, and Angular Momentum for a System of Particles'
 uid: 9845181c-185c-e6f2-ad9a-340013b545f3
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the use of tangential and normal coordinates, a review of linear momentum and impulse, then the definition and derivation of the torque/angular momentum relationship with respect to moving points and rigid bodies.
 
 **Instructor:** J. Kim Vandiver
+
+
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4448'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Finding Equations of Motion for Rigid Body Rotation
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '3784'
 title: 'Static and dynamic imbalance definitions '
 uid: 371de933-a9c7-3ca0-358a-c11da4d92aac
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the cart and pendulum problem (2 DOF equations of motion), the center of percussion problem, then finally static and dynamic imbalance definitions.
 
 **Instructor:** J. Kim Vandiver
+
+
+

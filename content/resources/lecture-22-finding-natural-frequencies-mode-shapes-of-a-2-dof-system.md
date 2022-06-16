@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Resource Index
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Finding Natural Frequencies and Mode Shapes of a 2 DOF System'
 uid: 92194a16-d8bc-4fef-db05-b2e5177f3488
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Gossard goes over obtaining the equations of motion of a 2 DOF system, finding natural frequencies by the characteristic equation, finding mode shapes; he then demonstrates via Matlab simulation and a real 2 DOF system response to initial conditions.
 
 **Instructor:** J. Kim Vandiver
+
+
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4282'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Motion of Rotating Rigid Bodies
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1957'
 title: 'Class 3:  Unconstrained motion about center of mass-hockey puck example'
 uid: bd4eddc1-f927-2c55-6629-4d90521a7564
 video_files:
@@ -29,3 +32,6 @@ video_metadata:
 *   rotation about moving points.
 
 **Instructor:** J. Kim Vandiver
+
+
+

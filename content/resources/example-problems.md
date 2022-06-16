@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4877'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lagrange Equations
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '3547'
 title: Example problems
 uid: b4f24766-abdd-5d7b-6860-421336e4f0de
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver introduces Lagrange, going over generalized coordinate definitions, what it means to be complete, independent and holonomic, and some example problems.
 
 **Instructor:** J. Kim Vandiver
+
+
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4890'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Vibration Analysis by Mode Superposition
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '431'
 title: Review of the use of a transfer function to analyze the response of a single
   DOF system to harmonic input
 uid: 8322d477-0bc2-596a-0053-0c10efab5be1
@@ -25,3 +28,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over analyzing the response of a 2-DOF system to harmonic excitation with transfer functions, using a dynamic absorber to mitigate problem vibration, and does a demonstration of a dynamic absorber using a strobe and a vibrating beam.
 
 **Instructor:** J. Kim Vandiver
+
+
+

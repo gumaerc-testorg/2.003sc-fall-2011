@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4282'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Motion of Rotating Rigid Bodies
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '2780'
 title: Equivalent forces and moments acting only upon the center of mass
 uid: 05f66ff8-9b35-ea8f-7f99-6d2890a14100
 video_files:
@@ -29,3 +32,6 @@ video_metadata:
 *   rotation about moving points.
 
 **Instructor:** J. Kim Vandiver
+
+
+

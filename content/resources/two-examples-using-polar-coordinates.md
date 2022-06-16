@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '3377'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Velocity, Acceleration, and Rotational Motion
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '360'
 title: Two examples using polar coordinates
 uid: 684e4343-02f6-2d5b-bba7-8e1728430955
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over velocity and acceleration in a translating and rotating coordinate system using polar and cylindrical coordinates, angular momentum of a particle, torque, the Coriolis force, and the definition of normal and tangential coordinates.
 
 **Instructor:** J. Kim Vandiver
+
+
+

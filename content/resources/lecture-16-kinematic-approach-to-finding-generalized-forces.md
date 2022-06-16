@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lagrange Equations Continued
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 16: Kinematic Approach to Finding Generalized Forces'
 uid: 5d0bef6c-c338-10d1-514a-a0af267af50b
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the concept questions for the week, the kinematic approach to finding generalized forces, the example of a wheel on moving cart with an incline, and the mass sliding on rod example.
 
 **Instructor:** J. Kim Vandiver
+
+
+

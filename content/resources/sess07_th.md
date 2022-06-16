@@ -2,7 +2,7 @@
 content_type: resource
 description: Diagram of a double pendulum, a classic and extremely complex example
   of a system with multiple degrees of freedom. Public domain image.
-file: /media/courses/2-003sc-engineering-dynamics-fall-2011/2294c735c4a5eca0d1d6ee3072c74f6d_sess07_th.jpg
+file: /courses/2-003sc-engineering-dynamics-fall-2011/2294c735c4a5eca0d1d6ee3072c74f6d_sess07_th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: Diagram of a double pendulum, a classic and extremely complex example of
@@ -13,7 +13,10 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Finding Equations of Motion for Rigid Body Rotation
 parent_type: CourseSection
+parent_uid: 9fdc3853-8645-b3ee-78bf-504125c7ccf2
 resourcetype: Image
 title: sess07_th.jpg
 uid: 2294c735-c4a5-eca0-d1d6-ee3072c74f6d
 ---
+Diagram of a double pendulum, a classic and extremely complex example of a system with multiple degrees of freedom. Public domain image.
+

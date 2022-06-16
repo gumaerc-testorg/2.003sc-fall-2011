@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4627'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Vibration of Multi-Degree-of-Freedom Systems
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '2848'
 title: Finding natural frequencies and mode shapes of multi-dof systems
 uid: 4d8eff48-f142-a3d8-899e-f201c04d6083
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver begins with an overview then goes over the linearization of a 2-DOF system, free vibration of linear multi-DOF systems, finding natural frequencies and mode shapes of multi-DOF systems, and mode superposition analysis of a 2-DOF system.
 
 **Instructor:** J. Kim Vandiver
+
+
+

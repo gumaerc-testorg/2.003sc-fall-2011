@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4269'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Final Exam
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '21'
 title: Purpose of concept questions
 uid: 2cd8b31f-b86b-ddca-0c7c-5f74cf919909
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over kinematics (describing the motion of particles and rigid bodies), Newton's three laws of motion, about action and reaction forces, the importance of an inertial reference frames, and the definition of center of mass.
 
 **Instructor:** J. Kim Vandiver
+
+
+

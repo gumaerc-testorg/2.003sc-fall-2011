@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Resource Index
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 10: Equations of Motion, Torque, Angular Momentum of Rigid Bodies'
 uid: 58d29c53-a6db-a78c-6c97-5c8fc2622fb0
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over finding equations of motion and degrees of freedom, the Atwoods machine and rotating mass shaker problems, students' questions about dh/dt and torque, angular momentum for rigid bodies, and the mass moment of inertia matrix, I.
 
 **Instructor:** J. Kim Vandiver
+
+
+

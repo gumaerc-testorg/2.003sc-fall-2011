@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4303'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Free Body Diagrams and Fictitious Forces
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '260'
 title: Degrees of freedom and free body diagrams
 uid: 7dca6295-3ef5-5503-ee01-8addcf909e08
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver begins the lecture by discussing some concepts students had trouble with, then goes over free body diagrams and degrees of freedom with example problems (hockey puck, elevator, stick against wall), and finally discusses fictitious forces.
 
 **Instructor:** J. Kim Vandiver
+
+
+

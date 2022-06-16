@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Vibration of Multi-Degree-of-Freedom Systems
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 11: Double Pendulum System'
 uid: 5be4e281-381a-c4ac-fd69-e278d1dbcdce
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation introduces modal analysis and looks at a double pendulum problem.
 
 **Instructor:** Kim Vandiver
+
+
+

@@ -3,7 +3,7 @@ content_type: resource
 description: The principles presented this week explain why the passengers on this
   swing ride feel an upward lift as the central structure whirls. Image courtesy of
   Hillbraith on Flickr.
-file: /media/courses/2-003sc-engineering-dynamics-fall-2011/8a5610e34b367f2c52223099d8ee6d04_sess03_th.jpg
+file: /courses/2-003sc-engineering-dynamics-fall-2011/8a5610e34b367f2c52223099d8ee6d04_sess03_th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: The principles presented this week explain why the passengers on this swing
@@ -16,7 +16,10 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Angular Momentum and Torque
 parent_type: CourseSection
+parent_uid: a040d3e0-0e6a-0dff-a6b0-aad775496601
 resourcetype: Image
 title: sess03_th.jpg
 uid: 8a5610e3-4b36-7f2c-5222-3099d8ee6d04
 ---
+The principles presented this week explain why the passengers on this swing ride feel an upward lift as the central structure whirls. Image courtesy of Hillbraith on Flickr.
+

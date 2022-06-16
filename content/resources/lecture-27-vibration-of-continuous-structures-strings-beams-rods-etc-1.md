@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Resource Index
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 27: Vibration of Continuous Structures: Strings, Beams, Rods, etc.'
 uid: 71867194-6557-c3a3-d130-0648ed36f400
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over wave propagation on a long string, flow-induced vibration of long strings and beams, application of the wave equation to rods, organ pipes, shower stalls with demonstrations, and vibration of beams (dispersion in wave propagation).
 
 **Instructor:** J. Kim Vandiver
+
+
+

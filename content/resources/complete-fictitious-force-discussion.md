@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4334'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Free Body Diagrams and Fictitious Forces
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '2923'
 title: Complete fictitious force discussion
 uid: 1ff26e47-94f1-a41c-6988-857f4c2a3284
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver discusses fictitious forces at length and goes over several problems: the spool problem, the elevator with a cable that breaks, and the cart carrying water on an incline. Finally, he does a rotating mass demonstration.
 
 **Instructor:** J. Kim Vandiver
+
+
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4487'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Velocity, Acceleration, and Rotational Motion
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '896'
 title: Newton's 3rd law recap and application to rigid bodies
 uid: 13ed1aaa-3a89-313b-81e6-f4e1cfa297a1
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over an example problem of a block on a slope, the applications of Newton's 3rd law to rigid bodies, kinematics in rotating and translating reference frames, and the derivative of a rotating vector in cylindrical coordinates.
 
 **Instructor:** J. Kim Vandiver
+
+
+

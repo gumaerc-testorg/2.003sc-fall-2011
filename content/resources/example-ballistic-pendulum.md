@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4555'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Mechanical Vibration
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1240'
 title: 'Example: Ballistic pendulum'
 uid: acbd10ee-8381-5016-96e6-d7f36d4ecca8
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the damped response of spring-mass-dashpot system to ICs, the ballistic pendulum example, experimental determination of damping ratio, steady state linear system response to harmonic input, and a beam with a rotating mass shaker.
 
 **Instructor:** J. Kim Vandiver
+
+
+

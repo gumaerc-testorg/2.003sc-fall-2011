@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Resource Index
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 6: Angular Momentum and Torque'
 uid: 729fb5e0-17b6-9ac0-9e5a-230af2a0403f
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation includes a concept review for the week, problems with the axis of spin on and not on the principal axis, and a discussion on finding the derivative of a rotating vector. The class concludes with a review of the quiz.
 
 **Instructor:** Kim Vandiver
+
+
+

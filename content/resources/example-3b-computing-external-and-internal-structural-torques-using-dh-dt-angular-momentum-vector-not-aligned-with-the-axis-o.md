@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '3961'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Torque
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1777'
 title: 'Example 3b: Computing external and internal structural torques using dh /
   dt; angular momentum vector not aligned with the axis of rotation'
 uid: 2e34ba34-6fc9-e9f6-1478-75ed114feaea
@@ -25,3 +28,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the time rate of change of linear and angular momentum for a particle, conservation of angular momentum, work equalling the change in kinetic energy, external and internal structural torques, and axis of rotation.
 
 **Instructor:** J. Kim Vandiver
+
+
+

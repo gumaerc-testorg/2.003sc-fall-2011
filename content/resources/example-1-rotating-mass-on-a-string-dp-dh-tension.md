@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '3961'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Torque
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '235'
 title: 'Example 1: Rotating mass on a string; dP/dt = tension'
 uid: f8d3798f-adde-ab1d-939e-a556c4327556
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the time rate of change of linear and angular momentum for a particle, conservation of angular momentum, work equalling the change in kinetic energy, external and internal structural torques, and axis of rotation.
 
 **Instructor:** J. Kim Vandiver
+
+
+

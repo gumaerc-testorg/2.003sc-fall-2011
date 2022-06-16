@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4982'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Reducing Problem Vibration and Intro to Multi-DOF Vibration
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '21'
 title: Obtain the equations of motion of a 2 DOF system
 uid: 8d33f7c6-c59e-99bd-406a-29f427e81c99
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Gossard goes over obtaining the equations of motion of a 2 DOF system, finding natural frequencies by the characteristic equation, finding mode shapes; he then demonstrates via Matlab simulation and a real 2 DOF system response to initial conditions.
 
 **Instructor:** J. Kim Vandiver
+
+
+

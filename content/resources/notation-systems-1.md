@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Velocity, Acceleration, and Rotational Motion
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: Notation Systems
 uid: 956da730-572a-a77d-9bfd-f1abf4bcb087
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** From this class forward, Prof. Vandiver uses a different notation system. Please watch this video to see how the different notation systems interrelate.
 
 **Instructor:** J. Kim Vandiver
+
+
+

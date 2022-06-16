@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4487'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Velocity, Acceleration, and Rotational Motion
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '21'
 title: Problem solving with an example of a block on a slope
 uid: 21261640-4ded-d0ea-1897-7a7b42a8242c
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over an example problem of a block on a slope, the applications of Newton's 3rd law to rigid bodies, kinematics in rotating and translating reference frames, and the derivative of a rotating vector in cylindrical coordinates.
 
 **Instructor:** J. Kim Vandiver
+
+
+

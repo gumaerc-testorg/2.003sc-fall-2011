@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Torque
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 3: Motion in Moving Reference Frames'
 uid: 042393de-f115-42f5-53e9-0e8e708d40b1
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation includes a concept review for the week and covers a problem on velocity and acceleration of a point in a plane using polar coordinates.
 
 **Instructor:** Kim Vandiver
+
+
+

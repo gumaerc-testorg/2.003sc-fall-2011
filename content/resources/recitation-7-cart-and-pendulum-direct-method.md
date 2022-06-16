@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Finding Equations of Motion for Rigid Body Rotation
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 7: Cart and Pendulum, Direct Method'
 uid: 1f934c41-4796-24c1-c273-73e4ff7e987d
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation covers a direct method of breaking down a problem involving a cart and pendulum.
 
 **Instructor:** Kim Vandiver
+
+
+

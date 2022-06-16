@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4282'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Motion of Rotating Rigid Bodies
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '384'
 title: 'Class 1: Rotation about fixed axis through center of mass'
 uid: 1c8a165c-c415-418d-a2cf-df823e52127c
 video_files:
@@ -29,3 +32,6 @@ video_metadata:
 *   rotation about moving points.
 
 **Instructor:** J. Kim Vandiver
+
+
+

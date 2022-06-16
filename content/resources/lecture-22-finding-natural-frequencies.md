@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Reducing Problem Vibration and Intro to Multi-DOF Vibration
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 22: Finding Natural Frequencies and Mode Shapes of a 2 DOF System'
 uid: e68f0da9-5bce-0acc-e687-97d274be5f26
 video_files:

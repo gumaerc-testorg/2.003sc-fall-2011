@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4497'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Mechanical Vibration
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '21'
 title: Introduction to the single degree of freedom (SDOF) system
 uid: 00639d2f-a379-2bbb-0065-3ff38a91235c
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver introduces the single degree of freedom (SDOF) system, finding the EOM with respect to the static equilibrium position, SDOF system response to initial conditions, phase angle in free decay, natural frequencies, and damping ratios.
 
 **Instructor:** J. Kim Vandiver
+
+
+

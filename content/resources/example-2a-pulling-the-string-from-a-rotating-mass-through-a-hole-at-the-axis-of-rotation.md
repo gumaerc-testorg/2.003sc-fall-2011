@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '3961'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Torque
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '540'
 title: Example 2a-Pulling the string from a rotating mass through a hole at the axis
   of rotation.  Conservation of angular momentum, h
 uid: fd40b3c5-75b3-d947-8de4-166db18189c2
@@ -25,3 +28,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the time rate of change of linear and angular momentum for a particle, conservation of angular momentum, work equalling the change in kinetic energy, external and internal structural torques, and axis of rotation.
 
 **Instructor:** J. Kim Vandiver
+
+
+

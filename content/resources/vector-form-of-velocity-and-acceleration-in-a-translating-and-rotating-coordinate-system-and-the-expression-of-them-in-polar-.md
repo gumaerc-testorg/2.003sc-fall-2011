@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '3377'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Velocity, Acceleration, and Rotational Motion
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '21'
 title: Vector form of velocity and acceleration in a translating and rotating coordinate
   system and the expression of them in polar and cylindrical coordinates
 uid: e551f27d-d924-7e78-3d59-627a04e2f267
@@ -25,3 +28,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over velocity and acceleration in a translating and rotating coordinate system using polar and cylindrical coordinates, angular momentum of a particle, torque, the Coriolis force, and the definition of normal and tangential coordinates.
 
 **Instructor:** J. Kim Vandiver
+
+
+

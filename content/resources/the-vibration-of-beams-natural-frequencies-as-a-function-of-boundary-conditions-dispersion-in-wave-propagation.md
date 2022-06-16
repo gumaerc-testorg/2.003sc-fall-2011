@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4333'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Vibration Analysis by Mode Superposition
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '3345'
 title: 'The vibration of beams: natural frequencies as a function of boundary conditions,
   dispersion in wave propagation'
 uid: 8c089509-c4a6-dde8-a646-25b97a7fde60
@@ -25,3 +28,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over wave propagation on a long string, flow-induced vibration of long strings and beams, application of the wave equation to rods, organ pipes, shower stalls with demonstrations, and vibration of beams (dispersion in wave propagation).
 
 **Instructor:** J. Kim Vandiver
+
+
+

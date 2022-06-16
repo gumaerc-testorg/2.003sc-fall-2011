@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4626'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Torque
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '2132'
 title: The definition of the angular momentum of a particle with respect to a moving
   reference point
 uid: 0077ae0d-71ca-fa72-3f59-2c71177218c4
@@ -25,3 +28,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the use of tangential and normal coordinates, a review of linear momentum and impulse, then the definition and derivation of the torque/angular momentum relationship with respect to moving points and rigid bodies.
 
 **Instructor:** J. Kim Vandiver
+
+
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Resource Index
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 1: History of Dynamics; Motion in Moving Reference Frames'
 uid: 479ef10a-0ae4-f0c7-d669-a54c69fad203
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver introduces key historical thinkers in the study of dynamics. He then derives equations of motion using Newton's laws, gives an introduction to kinematics using reference frames and vectors, and goes over motion in moving reference frames.
 
 **Instructor:**J. Kim Vandiver
+
+
+

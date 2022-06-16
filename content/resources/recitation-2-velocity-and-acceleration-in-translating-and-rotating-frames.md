@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Velocity, Acceleration, and Rotational Motion
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 2: Velocity and Acceleration in Translating and Rotating Frames'
 uid: ce528e95-331c-59a7-babb-b3f2877ae2b5
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation includes a concept review for the week and covers an amusement park ride problem with velocity in translating and rotating frames. The class also covers questions regarding planar motion problems.
 
 **Instructor:** Kim Vandiver
+
+
+

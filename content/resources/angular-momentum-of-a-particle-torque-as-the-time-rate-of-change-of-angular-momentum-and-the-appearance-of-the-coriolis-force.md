@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '3377'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Velocity, Acceleration, and Rotational Motion
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1637'
 title: Angular momentum of a particle, torque as the time rate of change of angular
   momentum, and the appearance of the coriolis force
 uid: b4fa67d6-ee50-0956-26e0-6f38203b6b3b
@@ -25,3 +28,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over velocity and acceleration in a translating and rotating coordinate system using polar and cylindrical coordinates, angular momentum of a particle, torque, the Coriolis force, and the definition of normal and tangential coordinates.
 
 **Instructor:** J. Kim Vandiver
+
+
+

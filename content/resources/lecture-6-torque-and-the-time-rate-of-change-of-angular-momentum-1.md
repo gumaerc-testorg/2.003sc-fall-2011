@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Resource Index
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 6: Torque and the Time Rate of Change of Angular Momentum'
 uid: d36e7899-33f9-cd12-7fae-a206a4ba39d6
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the time rate of change of linear and angular momentum for a particle, conservation of angular momentum, work equalling the change in kinetic energy, external and internal structural torques, and axis of rotation.
 
 **Instructor:** J. Kim Vandiver
+
+
+

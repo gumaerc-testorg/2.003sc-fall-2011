@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4673'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lagrange Equations Continued
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1221'
 title: Hockey puck by Lagrange
 uid: d8c93f22-0497-6108-c34a-d5889b2be761
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over a new formula for computing torque about moving points, the hockey puck problem via direct method and Lagrange, condensing many forces to 1 force and 1 moment at COM, pendulum with Lagrange, Atwood's machine, and falling stick.
 
 **Instructor:** J. Kim Vandiver
+
+
+

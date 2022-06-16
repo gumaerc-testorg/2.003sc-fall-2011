@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '2247'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Quiz Review Lecture & Quiz 2
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '1181'
 title: Problems 4 and 5-Pendulum in elevator
 uid: 53a53c2d-1d55-a67e-8f7a-5a427f4fe85d
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over various problems to review for the quiz, such as sticking and sliding in a circular track, a rotating T-bar with an imbalance, a pendulum in an elevator, and other pendulum problems.
 
 **Instructor:** J. Kim Vandiver
+
+
+

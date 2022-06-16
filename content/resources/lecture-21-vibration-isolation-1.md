@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Resource Index
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 21: Vibration Isolation'
 uid: c76e913a-d733-7079-2f79-44075d4fd998
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver shows a vibration isolation system with a strobe light and vibrating beam, Hx/F transfer function using complex numbers, vibration isolation system design, predicting natural frequency by SQRT(g/delta), & vibration isolation of the source.
 
 **Instructor:** J. Kim Vandiver
+
+
+

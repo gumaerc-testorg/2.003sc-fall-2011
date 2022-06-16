@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Reducing Problem Vibration and Intro to Multi-DOF Vibration
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 10: Steady State Dynamics'
 uid: db6c09ac-0934-0bd3-c189-cf8a4bb10103
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation covers a steady state frequency response problem.
 
 **Instructor:** Kim Vandiver
+
+
+

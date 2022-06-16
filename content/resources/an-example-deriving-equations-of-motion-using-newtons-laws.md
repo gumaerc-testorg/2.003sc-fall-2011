@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '3259'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Newton's Laws, Vectors, and Reference Frames
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '815'
 title: An example deriving equations of motion using Newton's laws
 uid: 46bd9d2f-4e99-dd79-52c4-c062e6a475da
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver introduces key historical thinkers in the study of dynamics. He then derives equations of motion using Newton's laws, gives an introduction to kinematics using reference frames and vectors, and goes over motion in moving reference frames.
 
 **Instructor:** J. Kim Vandiver
+
+
+

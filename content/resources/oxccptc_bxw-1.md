@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-003sc-engineering-dynamics-fall-2011/72989f3a9a1dab020b4e33e0537c715f_OxcCPTc_bXw.pdf
+file: /courses/2-003sc-engineering-dynamics-fall-2011/72989f3a9a1dab020b4e33e0537c715f_OxcCPTc_bXw.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

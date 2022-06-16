@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Resource Index
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Motion of Center of Mass; Acceleration in Rotating Ref. Frames'
 uid: 94883919-03b9-bdd3-3eca-9b01a0cc0fad
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over an example problem of a block on a slope, the applications of Newton's 3rd law to rigid bodies, kinematics in rotating and translating reference frames, and the derivative of a rotating vector in cylindrical coordinates.
 
 **Instructor:** J. Kim Vandiver
+
+
+

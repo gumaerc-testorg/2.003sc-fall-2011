@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Vibration Analysis by Mode Superposition
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Recitation 12: Modal Analysis of a Double Pendulum System'
 uid: ea1c0107-38aa-a5da-7b24-640a0cd03ffc
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** This recitation takes an in depth look at modal analysis for a double pendulum system.
 
 **Instructor:** Kim Vandiver
+
+
+

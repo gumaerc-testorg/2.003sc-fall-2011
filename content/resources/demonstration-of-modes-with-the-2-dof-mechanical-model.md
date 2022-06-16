@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4913'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Vibration of Multi-Degree-of-Freedom Systems
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '619'
 title: Demonstration of modes with the 2 DOF mechanical model
 uid: 0ef1d497-6b40-7f69-eb01-97a7cf5b410c
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the modal expansion theorem, computing mass and stiffness matrices, obtaining uncoupled equations of motion, modal initial conditions, damping in modal analysis, Rayleigh damping, and experimental fitting of damping ratios.
 
 **Instructor:** J. Kim Vandiver
+
+
+

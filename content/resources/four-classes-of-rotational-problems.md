@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4282'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Motion of Rotating Rigid Bodies
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '20'
 title: Four classes of rotational problems
 uid: dcc591c3-2d94-73cc-62c8-df85510e8170
 video_files:
@@ -29,3 +32,6 @@ video_metadata:
 *   rotation about moving points.
 
 **Instructor:** J. Kim Vandiver
+
+
+

@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4497'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Mechanical Vibration
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '2419'
 title: Engineers approach to the solution of the 2nd order differential equation with
   initial conditions
 uid: f4e92fdc-e7ee-e7d7-133d-3c74f0163f92
@@ -25,3 +28,6 @@ video_metadata:
 **Description:** Prof. Vandiver introduces the single degree of freedom (SDOF) system, finding the EOM with respect to the static equilibrium position, SDOF system response to initial conditions, phase angle in free decay, natural frequencies, and damping ratios.
 
 **Instructor:** J. Kim Vandiver
+
+
+

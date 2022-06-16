@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4269'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Newton's Laws, Vectors, and Reference Frames
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '4197'
 title: The definition of center of rod
 uid: 9e847af0-c911-f83e-de77-b4fbd96d68bc
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over kinematics (describing the motion of particles and rigid bodies), Newton's three laws of motion, about action and reaction forces, the importance of an inertial reference frames, and the definition of center of mass.
 
 **Instructor:** J. Kim Vandiver
+
+
+

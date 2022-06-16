@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4709'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Vibration Analysis by Mode Superposition
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '4176'
 title: Direct method for assembling the stiffness of an N DOF system
 uid: 64d8b942-0664-67c2-dab6-fd24c326da93
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the use of Rayleigh damping to model modal damping ratios, steady state response to harmonic excitation by the method of modal analysis, the direct method for assembling the stiffness of an N DOF system, and shows demonstrations of the response of a string.
 
 **Instructor:** J. Kim Vandiver
+
+
+

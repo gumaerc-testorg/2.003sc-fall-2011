@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Mechanical Vibration
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 19: Introduction to Mechanical Vibration'
 uid: c3d7fc7a-0ac8-356d-be63-a124b25a5dda
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver introduces the single degree of freedom (SDOF) system, finding the EOM with respect to the static equilibrium position, SDOF system response to initial conditions, phase angle in free decay, natural frequencies, and damping ratios.
 
 **Instructor:** J. Kim Vandiver
+
+
+

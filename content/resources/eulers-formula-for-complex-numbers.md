@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4824'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Reducing Problem Vibration and Intro to Multi-DOF Vibration
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '696'
 title: Euler's formula for complex numbers
 uid: ec2ab44f-094a-7b8e-bfe4-de75987434f7
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver shows a vibration isolation system with a strobe light and vibrating beam, Hx/F transfer function using complex numbers, vibration isolation system design, predicting natural frequency by SQRT(g/delta), & vibration isolation of the source.
 
 **Instructor:** J. Kim Vandiver
+
+
+

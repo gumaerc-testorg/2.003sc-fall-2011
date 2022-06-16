@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: '4147'
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Angular Momentum and Rotating Masses
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: '218'
 title: 'Example 1: Finding EOMs and DOFs'
 uid: e93c3097-c831-5bd3-cf18-cc9b1dd68e65
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over finding equations of motion and degrees of freedom, the Atwoods machine and rotating mass shaker problems, students' questions about dh/dt and torque, angular momentum for rigid bodies, and the mass moment of inertia matrix, I.
 
 **Instructor:** J. Kim Vandiver
+
+
+

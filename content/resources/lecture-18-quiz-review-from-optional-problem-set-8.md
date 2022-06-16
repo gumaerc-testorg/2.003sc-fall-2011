@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Quiz Review Lecture & Quiz 2
@@ -10,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 18: Quiz Review From Optional Problem Set 8'
 uid: 5b3ffb63-32fc-8bbe-e59d-1a4b30f52539
 video_files:
@@ -24,3 +27,6 @@ video_metadata:
 **Description:** Prof. Vandiver goes over various problems to review for the quiz, such as sticking and sliding in a circular track, a rotating T-bar with an imbalance, a pendulum in an elevator, and other pendulum problems.
 
 **Instructor:** J. Kim Vandiver
+
+
+
