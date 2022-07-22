@@ -5,6 +5,7 @@ description: 'This file contains information regarding recitation 3 notes: v and
 file: /courses/2-003sc-engineering-dynamics-fall-2011/d3178189fed77902219c478d784c6541_MIT2_003SCF11_rec3notes.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Angular Momentum and Torque
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Recitation 3 Notes: V and A of a Point in a Moving Frame'
 uid: d3178189-fed7-7902-219c-478d784c6541
 ---
 This file contains information regarding recitation 3 notes: v and a of a point in a moving frame.
-

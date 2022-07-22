@@ -4,6 +4,7 @@ description: ''
 file: /courses/2-003sc-engineering-dynamics-fall-2011/bebb1f199cd4f33e9f8c8eb8b71dbf8c_63sIgMvBuEQ.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file

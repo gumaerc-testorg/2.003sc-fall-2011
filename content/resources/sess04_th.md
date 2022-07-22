@@ -10,6 +10,7 @@ image_metadata:
   image-alt: Photograph of a computer screen showing boxes and arrows indicating directions
     of forces.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Free Body Diagrams and Fictitious Forces
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: sess04_th.jpg
 uid: 49ba4697-a96d-bf06-9a64-e4fd5fc93ff3
 ---
 Computer-generated free body diagrams for an elevator. Image courtesy of Waifer X on Flickr.
-

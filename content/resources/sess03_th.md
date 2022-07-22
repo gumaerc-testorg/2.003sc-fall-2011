@@ -13,6 +13,7 @@ image_metadata:
     hanging down from it and with the central structure spinning quickly enough for
     the people on the swings to feel a force away from the center of the ride.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Angular Momentum and Torque
 parent_type: CourseSection
@@ -22,4 +23,3 @@ title: sess03_th.jpg
 uid: 8a5610e3-4b36-7f2c-5222-3099d8ee6d04
 ---
 The principles presented this week explain why the passengers on this swing ride feel an upward lift as the central structure whirls. Image courtesy of Hillbraith on Flickr.
-

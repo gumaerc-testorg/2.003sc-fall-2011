@@ -11,6 +11,7 @@ image_metadata:
   credit: Image courtesy of Daniel Stone on Flickr.
   image-alt: Image of the Brooklyn Bridge taken from on the bridge, looking up.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Reducing Problem Vibration and Intro to Multi-DOF Vibration
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: sess11_th.jpg
 uid: 2eccfe2d-0702-c295-d07b-180c06dd2912
 ---
 The Brooklyn Bridge is one of the oldest suspension bridges in the United States and the first steel-wire suspension bridge. Image courtesy of Daniel Stone on Flickr.
-

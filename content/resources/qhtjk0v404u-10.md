@@ -4,6 +4,7 @@ description: ''
 file: /courses/2-003sc-engineering-dynamics-fall-2011/b9039aca584c5d6e9a11a41dd8c64538_QHTJK0v404U.vtt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file

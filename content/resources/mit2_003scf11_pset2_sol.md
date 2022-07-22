@@ -5,6 +5,7 @@ description: 'This file contains information regarding problem set 2: problems a
 file: /courses/2-003sc-engineering-dynamics-fall-2011/e2a0002858dc5936f7332cee0377eb70_MIT2_003SCF11_pset2_sol.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Velocity, Acceleration, and Rotational Motion
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 2 Solutions
 uid: e2a00028-58dc-5936-f733-2cee0377eb70
 ---
 This file contains information regarding problem set 2: problems and concept questions.
-

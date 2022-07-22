@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of John Martin on Flickr.
   image-alt: Photographs of ripples in a pond emanating from multiple points.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Vibration of Multi-Degree-of-Freedom Systems
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: sess12_th.jpg
 uid: 539a0a6c-7a5a-f345-f44e-207e441ceecd
 ---
 The ripples on this pond are an example of superposed waves that will soon disperse. Image courtesy of John Martin on Flickr.
-

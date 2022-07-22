@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** This recitation reviews free body diagram strategies, covers equations of motion for multiple degree-of-freedom systems, and addresses a dynamically balanced system.
 
 **Instructor:** Kim Vandiver
-
-
 

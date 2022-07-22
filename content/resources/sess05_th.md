@@ -11,6 +11,7 @@ image_metadata:
   image-alt: A man in a red collared shirt and an old-fashioned hat juggles flaming
     torches.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Angular Momentum and Rotating Masses
 parent_type: CourseSection
@@ -20,4 +21,3 @@ title: sess05_th.jpg
 uid: 96ace0dd-1360-8be1-6fd4-2c080ce64909
 ---
 A street performer in Quebec City juggles torches by repeatedly throwing and rotating the burning rods. Image courtesy of Reza Vaziri on Flickr.
-

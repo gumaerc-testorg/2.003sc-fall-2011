@@ -4,6 +4,7 @@ description: ''
 end_time: '3833'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Prof. Vandiver starts with a review of applicable physical laws; he then goes over an example Class 4 problem with moving points of constraint, the tipping box problem, an alternative form of Euler's equation, and ends with a question and answer period.
 
 **Instructor:** J. Kim Vandiver
-
-
 

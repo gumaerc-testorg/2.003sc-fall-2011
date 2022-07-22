@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Prof. Vandiver goes over a new formula for computing torque about moving points, the hockey puck problem via direct method and Lagrange, condensing many forces to 1 force and 1 moment at COM, pendulum with Lagrange, Atwood's machine, and falling stick.
 
 **Instructor:** J. Kim Vandiver
-
-
 

@@ -4,6 +4,7 @@ description: ''
 end_time: '2247'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Prof. Vandiver goes over various problems to review for the quiz, such as sticking and sliding in a circular track, a rotating T-bar with an imbalance, a pendulum in an elevator, and other pendulum problems.
 
 **Instructor:** J. Kim Vandiver
-
-
 

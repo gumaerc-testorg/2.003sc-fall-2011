@@ -10,6 +10,7 @@ image_metadata:
   credit: Image courtesy of Maruku San on Flickr.
   image-alt: Close up image of piano strings inside a piano.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Vibration Analysis by Mode Superposition
 parent_type: CourseSection
@@ -19,4 +20,3 @@ title: sess13_th.jpg
 uid: de81a553-0ab6-f50f-99f0-0691c977edc1
 ---
 Piano strings are each chosen and tuned such that they have a specific natural frequency. Image courtesy of Maruku San on Flickr.
-

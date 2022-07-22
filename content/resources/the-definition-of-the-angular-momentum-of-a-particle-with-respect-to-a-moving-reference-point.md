@@ -4,6 +4,7 @@ description: ''
 end_time: '4626'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the use of tangential and normal coordinates, a review of linear momentum and impulse, then the definition and derivation of the torque/angular momentum relationship with respect to moving points and rigid bodies.
 
 **Instructor:** J. Kim Vandiver
-
-
 

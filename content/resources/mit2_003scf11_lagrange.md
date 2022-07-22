@@ -4,6 +4,7 @@ description: This file contains information regarding lagrange handout.
 file: /courses/2-003sc-engineering-dynamics-fall-2011/d1984062464dcc3df68b5741fd37192b_MIT2_003SCF11_Lagrange.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lagrange Equations
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Lagrange Handout
 uid: d1984062-464d-cc3d-f68b-5741fd37192b
 ---
 This file contains information regarding lagrange handout.
-

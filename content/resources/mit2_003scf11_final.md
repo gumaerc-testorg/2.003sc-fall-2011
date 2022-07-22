@@ -4,6 +4,7 @@ description: This file contains information regarding final exam solutions.
 file: /courses/2-003sc-engineering-dynamics-fall-2011/dc89c1bce90c50b979ebc4db005fdf12_MIT2_003SCF11_final.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Final Exam
 parent_type: CourseSection
@@ -13,4 +14,3 @@ title: Problem 1
 uid: dc89c1bc-e90c-50b9-79eb-c4db005fdf12
 ---
 This file contains information regarding final exam solutions.
-

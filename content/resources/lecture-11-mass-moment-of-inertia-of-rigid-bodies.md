@@ -4,6 +4,7 @@ description: ''
 end_time: ''
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Prof. Vandiver goes over the definition of the moment of inertia matrix, principle axes and symmetry rules, example computation of Izz for a disk, and the parallel axis theorem.
 
 **Instructor:** J. Kim Vandiver
-
-
 

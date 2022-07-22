@@ -4,6 +4,7 @@ description: ''
 end_time: '4334'
 file: null
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -27,6 +28,4 @@ video_metadata:
 **Description:** Prof. Vandiver discusses fictitious forces at length and goes over several problems: the spool problem, the elevator with a cable that breaks, and the cart carrying water on an incline. Finally, he does a rotating mass demonstration.
 
 **Instructor:** J. Kim Vandiver
-
-
 
