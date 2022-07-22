@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides materials from a lecture session on angular momentum
+  and motion of rotating rigid bodies. Materials include a session overview, assignments,
+  lecture videos, recitation videos and notes, and a problem set with solutions.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Angular Momentum and Motion of Rotating Rigid Bodies
 uid: 56c852b3-74a3-02bc-a7e7-ed5c15fa36ac
 ---
 
-« [Previous]({{< baseurl >}}/pages/angular-momentum-and-rotating-masses) | [Next]({{< baseurl >}}/pages/finding-equations-of-motion-for-rigid-body-rotation) »
+« {{% resource_link 5a443f4f-d020-ca36-4f90-db3463369b68 "Previous" %}} | {{% resource_link 9fdc3853-8645-b3ee-78bf-504125c7ccf2 "Next" %}} »
 
 Session Overview
 ----------------
@@ -12,7 +17,7 @@ Session Overview
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-![An infant on hands and knees reaches out an exploratory hand toward a large toy spinning top in motion on the floor in front of it.]({{< resource_file e1f2e431-0a61-b57c-de78-52cb96308135 >}})
+{{< resource e1f2e431-0a61-b57c-de78-52cb96308135 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -34,39 +39,39 @@ Assignments
 
 ### Problems and Concept Questions
 
-Each problem set has concept questions paired with most problems. Answers to the concept questions are handed in before the overall problem set is due. You should therefore answer the concept questions in each problem set while watching the video lectures for the week. Then, use the Concept Question Answer Key (below in the [Check Yourself]({{< baseurl >}}/pages/angular-momentum-and-motion-of-rotating-rigid-bodies#cy) section) to check your work before continuing to work on the problem set.
+Each problem set has concept questions paired with most problems. Answers to the concept questions are handed in before the overall problem set is due. You should therefore answer the concept questions in each problem set while watching the video lectures for the week. Then, use the Concept Question Answer Key (below in the {{% resource_link 56c852b3-74a3-02bc-a7e7-ed5c15fa36ac "Check Yourself" "#cy" %}} section) to check your work before continuing to work on the problem set.
 
 Please note that if your answer to the concept question is incorrect, it is likely that you may start down an unproductive pathway to a solution. Try to fully understand the answer to the concept question before you begin the regular problem.
 
-*   [Problem Set 5: Problems and Concept Questions (PDF)]({{< baseurl >}}/resources/mit2_003scf11_pset5)
+*   {{% resource_link 66049fd5-47c0-4a93-c8fd-1bef139ad438 "Problem Set 5: Problems and Concept Questions (PDF)" %}}
 
 Videos
 ------
 
 ### Lecture Videos
 
-*   Watch [Lecture 11: Mass Moment of Inertia of Rigid Bodies]({{< baseurl >}}/resources/lecture-11-mass-moment-of-inertia-of-rigid-bodies)
+*   Watch {{% resource_link 401c6d73-6d0e-c7ac-ed5d-d49ae25ea5f3 "Lecture 11: Mass Moment of Inertia of Rigid Bodies" %}}
     *   Video Chapters
-        *   [Definition of moment of inertia matrix]({{< baseurl >}}/resources/definition-of-moment-of-inertia-matrix)
-        *   [Principle axes and symmetry rules]({{< baseurl >}}/resources/principle-axes-and-symmetry-rules)
-        *   [Example computation of Izz for a disk]({{< baseurl >}}/resources/example-computation-of-izz-for-a-disk)
-        *   [Parallel axis theorem]({{< baseurl >}}/resources/parallel-axis-theorem)
+        *   {{% resource_link fb36b688-72ab-bd0d-82e4-2c01dd6c0b5f "Definition of moment of inertia matrix" %}}
+        *   {{% resource_link edbf6df1-b5d2-5e41-8d7d-9fd4a04093df "Principle axes and symmetry rules" %}}
+        *   {{% resource_link b229d237-6044-f5be-da48-e0b0040a0e82 "Example computation of Izz for a disk" %}}
+        *   {{% resource_link 55c1bacf-2cf2-0cf1-6882-f854c8395cf3 "Parallel axis theorem" %}}
 
-*   Watch [Lecture 12: Problem Solving Methods for Rotating Rigid Bodies]({{< baseurl >}}/resources/lecture-12-problem-solving-methods-for-rotating-rigid-bodies)
+*   Watch {{% resource_link 1fb3d173-913d-ef4b-7c9d-0a9566a24cd0 "Lecture 12: Problem Solving Methods for Rotating Rigid Bodies" %}}
     *   Video Chapters
-        *   [Four classes of rotational problems]({{< baseurl >}}/resources/four-classes-of-rotational-problems)
-        *   [Class 1: Rotation about fixed axis through center of mass]({{< baseurl >}}/resources/class-1-rotation-about-fixed-axis-through-center-of-mass)
-        *   [Class 2: Fixed axis rotation not through center of mass-pendulum example]({{< baseurl >}}/resources/class-2-fixed-axis-rotation-not-through-center-of-mass-pendulum-example)
-        *   [Class 3: Unconstrained motion about center of mass-hockey puck example]({{< baseurl >}}/resources/class-3-unconstrained-motion-about-center-of-mass-hockey-puck-example)
-        *   [Equivalent forces and moments acting only upon the center of mass]({{< baseurl >}}/resources/equivalent-forces-and-moments-acting-only-upon-the-center-of-mass)
-        *   [Class 4: Rotation about moving points; H/A alternative formulation in terms of H/G]({{< baseurl >}}/resources/class-4-rotation-about-moving-points-h-a-alternative-formulation-in-terms-of-h-g)
-        *   [Class 4 example of the pipe rolling on a truck bed]({{< baseurl >}}/resources/class-4-example-of-the-pipe-rolling-on-a-truck-bed)
+        *   {{% resource_link dcc591c3-2d94-73cc-62c8-df85510e8170 "Four classes of rotational problems" %}}
+        *   {{% resource_link 1c8a165c-c415-418d-a2cf-df823e52127c "Class 1: Rotation about fixed axis through center of mass" %}}
+        *   {{% resource_link eea25f6a-d1e9-cb0d-856c-21da6a746b98 "Class 2: Fixed axis rotation not through center of mass-pendulum example" %}}
+        *   {{% resource_link bd4eddc1-f927-2c55-6629-4d90521a7564 "Class 3: Unconstrained motion about center of mass-hockey puck example" %}}
+        *   {{% resource_link 05f66ff8-9b35-ea8f-7f99-6d2890a14100 "Equivalent forces and moments acting only upon the center of mass" %}}
+        *   {{% resource_link 1b75ce8c-c010-36c4-3ff6-759755cdfbdf "Class 4: Rotation about moving points; H/A alternative formulation in terms of H/G" %}}
+        *   {{% resource_link 4a73f0ed-18b0-eccb-d24a-500778c9ade1 "Class 4 example of the pipe rolling on a truck bed" %}}
 
 ### Recitation Video and Notes
 
-*   Watch [Recitation 6: Angular Momentum and Torque]({{< baseurl >}}/resources/recitation-6-angular-momentum-and-torque)
+*   Watch {{% resource_link 16fcc53e-f611-8b0f-6d64-05f1e39b2345 "Recitation 6: Angular Momentum and Torque" %}}
     *   This recitation includes a concept review for the week, problems with the axis of spin on and not on the principal axis, and a discussion on finding the derivative of a rotating vector. The class concludes with a review of Quiz 1.
-*   [Recitation 6 Notes: Moment of Inertia and Imbalance, Rotating Slender Rod (PDF - 1.1MB)]({{< baseurl >}}/resources/mit2_003scf11_rec6notes1)
+*   {{% resource_link 669dfa48-9877-b32a-6d58-6af648065a22 "Recitation 6 Notes: Moment of Inertia and Imbalance, Rotating Slender Rod (PDF - 1.1MB)" %}}
     *   These recitation notes were compiled by Prof. David Gossard, another instructor for the course. His notes go over concepts and problems covered during the recitation sections he taught, and may not precisely correspond to the content covered in the above recitation video.
 
 {{< anchor "cy" >}}{{< /anchor >}}Check Yourself
@@ -76,9 +81,9 @@ Videos
 
 The solutions are presented in two files, one with the answers to the concept questions, and one with solutions and in-depth explanations for the problems. Work the problems on your own and check your answers when you're done.
 
-*   [Problem Set 5: Concept Question Answer Key (PDF)]({{< baseurl >}}/resources/mit2_003scf11_pset5cosol)
-*   [Problem Set 5: Problem Solutions and Explanations (PDF)]({{< baseurl >}}/resources/mit2_003scf11_pset5sol)
+*   {{% resource_link 310bd3a0-97fd-02db-6d17-1de1cd805223 "Problem Set 5: Concept Question Answer Key (PDF)" %}}
+*   {{% resource_link e528e0e2-e968-36c1-78a5-353b93b5277c "Problem Set 5: Problem Solutions and Explanations (PDF)" %}}
 
-Looking for something specific in this course? The [Resource Index]({{< baseurl >}}/pages/resource-index) compiles links to most course resources in a single page.
+Looking for something specific in this course? The {{% resource_link ce12384b-bce1-4235-ded2-004c6c1d7e78 "Resource Index" %}} compiles links to most course resources in a single page.
 
-« [Previous]({{< baseurl >}}/pages/angular-momentum-and-rotating-masses) | [Next]({{< baseurl >}}/pages/finding-equations-of-motion-for-rigid-body-rotation) »
+« {{% resource_link 5a443f4f-d020-ca36-4f90-db3463369b68 "Previous" %}} | {{% resource_link 9fdc3853-8645-b3ee-78bf-504125c7ccf2 "Next" %}} »

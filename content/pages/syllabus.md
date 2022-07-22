@@ -1,10 +1,14 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on prerequisites and preparation, course components and requirements, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d1b694be-960d-f27a-c0a1-8f8a400c141d
 ---
 
-« [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/newton2019s-laws-vectors-and-reference-frames) »
+« [Previous]({{< baseurl >}}/) | {{% resource_link 70dbfa93-e140-9409-6311-b3641daa05ef "Next" %}} »
 
 About this Course
 -----------------
@@ -144,4 +148,4 @@ Final exam
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/) | [Next]({{< baseurl >}}/pages/newton2019s-laws-vectors-and-reference-frames) »
+« [Previous]({{< baseurl >}}/) | {{% resource_link 70dbfa93-e140-9409-6311-b3641daa05ef "Next" %}} »
