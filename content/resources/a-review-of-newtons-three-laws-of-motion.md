@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4269'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: ZNVvYg1FOPk
 ---
-
 **Description:** Prof. Vandiver goes over kinematics (describing the motion of particles and rigid bodies), Newton's three laws of motion, about action and reaction forces, the importance of an inertial reference frames, and the definition of center of mass.
 
 **Instructor:** J. Kim Vandiver
-

@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4877'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: zhk9xLjrmi4
 ---
-
 **Description:** Prof. Vandiver introduces Lagrange, going over generalized coordinate definitions, what it means to be complete, independent and holonomic, and some example problems.
 
 **Instructor:** J. Kim Vandiver
-

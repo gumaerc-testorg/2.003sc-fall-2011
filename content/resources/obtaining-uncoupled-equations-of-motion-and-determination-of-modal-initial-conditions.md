@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4913'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -25,8 +33,6 @@ video_files:
 video_metadata:
   youtube_id: OxcCPTc_bXw
 ---
-
 **Description:** Prof. Vandiver goes over the modal expansion theorem, computing mass and stiffness matrices, obtaining uncoupled equations of motion, modal initial conditions, damping in modal analysis, Rayleigh damping, and experimental fitting of damping ratios.
 
 **Instructor:** J. Kim Vandiver
-

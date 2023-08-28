@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: 6wPHoFjnYXI
 ---
-
 **Description:** This recitation includes a concept review for the week, problems with the axis of spin on and not on the principal axis, and a discussion on finding the derivative of a rotating vector. The class concludes with a review of the quiz.
 
 **Instructor:** Kim Vandiver
-

@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4282'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: '680'
-title: 'Class 2:  Fixed axis rotation not through center of mass-pendulum example '
+title: 'Class 2:  Fixed axis rotation not through center of mass-pendulum example'
 uid: eea25f6a-d1e9-cb0d-856c-21da6a746b98
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec12_300k.mp4
@@ -24,7 +32,6 @@ video_files:
 video_metadata:
   youtube_id: mB_rrEN_Ltc
 ---
-
 **Description:** Prof. Vandiver goes over four classes of rotational problems:
 
 *   rotation about fixed axis through center of mass
@@ -33,4 +40,3 @@ video_metadata:
 *   rotation about moving points.
 
 **Instructor:** J. Kim Vandiver
-

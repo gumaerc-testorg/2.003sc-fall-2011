@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4890'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: fK9AGvLf3yw
 ---
-
 **Description:** Prof. Vandiver goes over analyzing the response of a 2-DOF system to harmonic excitation with transfer functions, using a dynamic absorber to mitigate problem vibration, and does a demonstration of a dynamic absorber using a strobe and a vibrating beam.
 
 **Instructor:** J. Kim Vandiver
-

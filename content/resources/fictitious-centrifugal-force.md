@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4303'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: 63sIgMvBuEQ
 ---
-
 **Description:** Prof. Vandiver begins the lecture by discussing some concepts students had trouble with, then goes over free body diagrams and degrees of freedom with example problems (hockey puck, elevator, stick against wall), and finally discusses fictitious forces.
 
 **Instructor:** J. Kim Vandiver
-
