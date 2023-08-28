@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -24,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: QadsG49DY3M
 ---
-
 **Description:** This recitation covers generalized forces in a double pendulum. Questions are also addressed for an upcoming quiz.
 
 **Instructor:** Kim Vandiver
-

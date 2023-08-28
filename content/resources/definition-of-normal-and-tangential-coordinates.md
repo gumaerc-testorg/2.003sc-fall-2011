@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '3377'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: iMz0LiqjFmE
 ---
-
 **Description:** Prof. Vandiver goes over velocity and acceleration in a translating and rotating coordinate system using polar and cylindrical coordinates, angular momentum of a particle, torque, the Coriolis force, and the definition of normal and tangential coordinates.
 
 **Instructor:** J. Kim Vandiver
-

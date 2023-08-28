@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4448'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: '3784'
-title: 'Static and dynamic imbalance definitions '
+title: Static and dynamic imbalance definitions
 uid: 371de933-a9c7-3ca0-358a-c11da4d92aac
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec14_300k.mp4
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: qrbCpv3Sv34
 ---
-
 **Description:** Prof. Vandiver goes over the cart and pendulum problem (2 DOF equations of motion), the center of percussion problem, then finally static and dynamic imbalance definitions.
 
 **Instructor:** J. Kim Vandiver
-

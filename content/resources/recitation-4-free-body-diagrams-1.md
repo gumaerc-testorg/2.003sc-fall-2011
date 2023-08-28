@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Recitation Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: cecD1w3-SD0
 ---
-
 **Description:** This recitation reviews free body diagrams and covers a problem with a torsional spring pendulum followed by a second problem with a rolling pipe on an accelerating truck.
 
 **Instructor:** Kim Vandiver
-

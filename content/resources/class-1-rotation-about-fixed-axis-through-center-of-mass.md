@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4282'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,7 +32,6 @@ video_files:
 video_metadata:
   youtube_id: mB_rrEN_Ltc
 ---
-
 **Description:** Prof. Vandiver goes over four classes of rotational problems:
 
 *   rotation about fixed axis through center of mass
@@ -33,4 +40,3 @@ video_metadata:
 *   rotation about moving points.
 
 **Instructor:** J. Kim Vandiver
-

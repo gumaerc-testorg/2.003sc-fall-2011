@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4487'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: d00XI_UTKQo
 ---
-
 **Description:** Prof. Vandiver goes over an example problem of a block on a slope, the applications of Newton's 3rd law to rigid bodies, kinematics in rotating and translating reference frames, and the derivative of a rotating vector in cylindrical coordinates.
 
 **Instructor:** J. Kim Vandiver
-
