@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -24,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: 9CPA6WG6mRo
 ---
-
 **Description:** Prof. Gossard goes over obtaining the equations of motion of a 2 DOF system, finding natural frequencies by the characteristic equation, finding mode shapes; he then demonstrates via Matlab simulation and a real 2 DOF system response to initial conditions.
 
 **Instructor:** J. Kim Vandiver
-

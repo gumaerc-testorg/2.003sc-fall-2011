@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: jROTMB142T0
 ---
-
 **Description:** Prof. Vandiver goes over the time rate of change of linear and angular momentum for a particle, conservation of angular momentum, work equalling the change in kinetic energy, external and internal structural torques, and axis of rotation.
 
 **Instructor:** J. Kim Vandiver
-

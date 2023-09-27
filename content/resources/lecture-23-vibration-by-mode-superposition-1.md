@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: tm51lwadMOc
 ---
-
 **Description:** Prof. Vandiver begins with an overview then goes over the linearization of a 2-DOF system, free vibration of linear multi-DOF systems, finding natural frequencies and mode shapes of multi-DOF systems, and mode superposition analysis of a 2-DOF system.
 
 **Instructor:** J. Kim Vandiver
-

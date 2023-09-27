@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -24,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: wzEqF_UQkks
 ---
-
 **Description:** Prof. Vandiver goes over the damped response of spring-mass-dashpot system to ICs, the ballistic pendulum example, experimental determination of damping ratio, steady state linear system response to harmonic input, and a beam with a rotating mass shaker.
 
 **Instructor:** J. Kim Vandiver
-

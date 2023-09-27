@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4626'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -14,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: '798'
-title: 'A review of the principle of linear momentum and impulse '
+title: A review of the principle of linear momentum and impulse
 uid: e50c323b-98a7-046e-42dc-c770d57b99ed
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec05_300k.mp4
@@ -24,8 +32,6 @@ video_files:
 video_metadata:
   youtube_id: NHedXxUO-Bg
 ---
-
 **Description:** Prof. Vandiver goes over the use of tangential and normal coordinates, a review of linear momentum and impulse, then the definition and derivation of the torque/angular momentum relationship with respect to moving points and rigid bodies.
 
 **Instructor:** J. Kim Vandiver
-

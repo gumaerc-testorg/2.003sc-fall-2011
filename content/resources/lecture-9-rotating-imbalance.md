@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 optional_tab_title: ''
@@ -23,8 +30,6 @@ video_files:
 video_metadata:
   youtube_id: QHTJK0v404U
 ---
-
 **Description:** Prof. Vandiver first goes over the problem of a body on rollers with an internal rotating mass, then the definition of the mass moment of inertia as a summation, and finally moments and products of inertia.
 
 **Instructor:** J. Kim Vandiver
-

@@ -1,9 +1,17 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: '4411'
 file: null
-learning_resource_types: []
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
+learning_resource_types:
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -25,8 +33,6 @@ video_files:
 video_metadata:
   youtube_id: lFedznDnPZc
 ---
-
 **Description:** Prof. Vandiver goes over the concept questions for the week, the kinematic approach to finding generalized forces, the example of a wheel on moving cart with an incline, and the mass sliding on rod example.
 
 **Instructor:** J. Kim Vandiver
-

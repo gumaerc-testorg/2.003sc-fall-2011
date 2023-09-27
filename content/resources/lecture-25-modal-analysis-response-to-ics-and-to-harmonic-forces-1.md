@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -24,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: p9DHjoLS3GA
 ---
-
 **Description:** Prof. Vandiver goes over the use of Rayleigh damping to model modal damping ratios, steady state response to harmonic excitation by the method of modal analysis, the direct method for assembling the stiffness of an N DOF system, and shows demonstrations of the response of a string.
 
 **Instructor:** J. Kim Vandiver
-

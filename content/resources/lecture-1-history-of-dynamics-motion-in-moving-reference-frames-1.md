@@ -1,8 +1,15 @@
 ---
 content_type: resource
 description: ''
+draft: false
 end_time: ''
 file: null
+file_size: ''
+file_type: ''
+image_metadata:
+  caption: ''
+  credit: ''
+  image-alt: ''
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
@@ -24,8 +31,6 @@ video_files:
 video_metadata:
   youtube_id: GUvoVvXwoOQ
 ---
-
 **Description:** Prof. Vandiver introduces key historical thinkers in the study of dynamics. He then derives equations of motion using Newton's laws, gives an introduction to kinematics using reference frames and vectors, and goes over motion in moving reference frames.
 
 **Instructor:**J. Kim Vandiver
-
