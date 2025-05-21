@@ -4,7 +4,7 @@ description: 'This file contains information regarding problem set 9: concept qu
   answer key.'
 draft: false
 file: /courses/2-003sc-engineering-dynamics-fall-2011/5853a024c48f1bda4b0ca9aefd76014c_MIT2_003SCF11_pset9CoSol.pdf
-file_size: ''
+file_size: 744589
 file_type: application/pdf
 image_metadata:
   caption: ''

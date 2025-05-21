@@ -4,6 +4,7 @@ description: The Brooklyn Bridge is one of the oldest suspension bridges in the 
   States and the first steel-wire suspension bridge. Image courtesy of Daniel Stone
   on Flickr.
 file: /courses/2-003sc-engineering-dynamics-fall-2011/2eccfe2d0702c295d07b180c06dd2912_sess11_th.jpg
+file_size: 7858
 file_type: image/jpeg
 image_metadata:
   caption: The Brooklyn Bridge is one of the oldest suspension bridges in the United

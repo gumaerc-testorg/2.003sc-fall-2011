@@ -3,6 +3,7 @@ content_type: resource
 description: A street performer in Quebec City juggles torches by repeatedly throwing
   and rotating the burning rods. Image courtesy of Reza Vaziri on Flickr.
 file: /courses/2-003sc-engineering-dynamics-fall-2011/96ace0dd13608be16fd42c080ce64909_sess05_th.jpg
+file_size: 6392
 file_type: image/jpeg
 image_metadata:
   caption: A street performer in Quebec City juggles torches by repeatedly throwing

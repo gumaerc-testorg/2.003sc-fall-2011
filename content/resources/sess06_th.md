@@ -3,6 +3,7 @@ content_type: resource
 description: "Spinning tops are an example of a rotating rigid body often used as\
   \ a children\u2019s toy. Image courtesy of Sean Dreilinger on Flickr."
 file: /courses/2-003sc-engineering-dynamics-fall-2011/e1f2e4310a61b57cde7852cb96308135_sess06_th.jpg
+file_size: 5287
 file_type: image/jpeg
 image_metadata:
   caption: Spinning tops are an example of a rotating rigid body often used as a children's

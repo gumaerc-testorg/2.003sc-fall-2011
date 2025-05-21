@@ -3,6 +3,7 @@ content_type: resource
 description: The shape of this bubble corresponds to a solution of the Lagrange equations.
   Image courtesy of whologwhy on Flickr.
 file: /courses/2-003sc-engineering-dynamics-fall-2011/ec2506d58c1c3716f3afc74aef7639ba_sess09_th.jpg
+file_size: 5235
 file_type: image/jpeg
 image_metadata:
   caption: The shape of this bubble corresponds to a solution of the Lagrange equations.

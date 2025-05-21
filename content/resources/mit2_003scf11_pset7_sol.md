@@ -3,7 +3,7 @@ content_type: resource
 description: 'Problem Set 7: problem solutions with explanations.'
 draft: false
 file: /courses/2-003sc-engineering-dynamics-fall-2011/393be08dc3b543059733d255636a3566_MIT2_003SCF11_pset7_sol.pdf
-file_size: ''
+file_size: 527958
 file_type: application/pdf
 image_metadata:
   caption: ''

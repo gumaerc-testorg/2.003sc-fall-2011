@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains information regarding kinematics handout.
 draft: false
 file: /courses/2-003sc-engineering-dynamics-fall-2011/fd8915e277d5b0c8efae261114febe1f_MIT2_003SCF11Kinematic.pdf
-file_size: ''
+file_size: 783822
 file_type: application/pdf
 image_metadata:
   caption: ''

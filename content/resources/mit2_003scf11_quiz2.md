@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains information regarding quiz 2.
 draft: false
 file: /courses/2-003sc-engineering-dynamics-fall-2011/4a10552b5450f9cd994f1c165d58969a_MIT2_003SCF11_quiz2.pdf
-file_size: ''
+file_size: 623465
 file_type: application/pdf
 image_metadata:
   caption: ''
