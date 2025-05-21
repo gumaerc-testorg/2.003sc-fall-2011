@@ -4,6 +4,7 @@ description: The principles presented this week explain why the passengers on th
   swing ride feel an upward lift as the central structure whirls. Image courtesy of
   Hillbraith on Flickr.
 file: /courses/2-003sc-engineering-dynamics-fall-2011/8a5610e34b367f2c52223099d8ee6d04_sess03_th.jpg
+file_size: 4852
 file_type: image/jpeg
 image_metadata:
   caption: The principles presented this week explain why the passengers on this swing

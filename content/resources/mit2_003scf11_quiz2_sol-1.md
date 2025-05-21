@@ -3,13 +3,14 @@ content_type: resource
 description: This file contains information regarding quiz 2 solutions.
 draft: false
 file: /courses/2-003sc-engineering-dynamics-fall-2011/84c208c9c48ad9bdd2f7bb832ceae96c_MIT2_003SCF11_quiz2_sol.pdf
-file_size: ''
+file_size: 585333
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
-learning_resource_types: []
+learning_resource_types:
+- Exams with Solutions
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quiz Review Lecture & Quiz 2

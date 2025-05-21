@@ -4,14 +4,14 @@ description: 'This file contains information regarding recitation 3 notes: v and
   of a point in a moving frame.'
 draft: false
 file: /courses/2-003sc-engineering-dynamics-fall-2011/d3178189fed77902219c478d784c6541_MIT2_003SCF11_rec3notes.pdf
-file_size: ''
+file_size: 1655533
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Recitation Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Angular Momentum and Torque

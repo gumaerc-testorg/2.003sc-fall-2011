@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-003sc-engineering-dynamics-fall-2011/6f25a8389a7431b8a9feb8438d15a341_cd8lDtAtJbE.pdf
+file_size: 83019
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

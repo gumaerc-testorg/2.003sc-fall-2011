@@ -4,14 +4,14 @@ description: ''
 draft: false
 end_time: '3833'
 file: null
-file_size: ''
+file_size: '216321513'
 file_type: ''
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Tutorial Videos
+- Lecture Videos
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
@@ -22,7 +22,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: '455'
-title: Example Class 4 problem with moving points of constraint
+title: 'Example 4: Problem with moving points of constraint'
 uid: e2e5235c-5d21-b2cb-87d2-cb2e318c236f
 video_files:
   archive_url: http://www.archive.org/download/MIT2.003SCF11/MIT2_003SCF11_lec13_300k.mp4
