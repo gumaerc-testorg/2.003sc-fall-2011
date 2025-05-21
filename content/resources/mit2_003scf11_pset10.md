@@ -4,7 +4,7 @@ description: 'This file contains information regarding problem set 10: problems 
   concept questions.'
 draft: false
 file: /courses/2-003sc-engineering-dynamics-fall-2011/775a94e735cd5e2b46a3e0c6bb376cf6_MIT2_003SCF11_pset10.pdf
-file_size: ''
+file_size: 721102
 file_type: application/pdf
 image_metadata:
   caption: ''

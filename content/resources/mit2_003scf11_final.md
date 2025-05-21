@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains information regarding final exam solutions.
 draft: false
 file: /courses/2-003sc-engineering-dynamics-fall-2011/dc89c1bce90c50b979ebc4db005fdf12_MIT2_003SCF11_final.pdf
-file_size: ''
+file_size: 744961
 file_type: application/pdf
 image_metadata:
   caption: ''

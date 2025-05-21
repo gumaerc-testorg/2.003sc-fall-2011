@@ -4,14 +4,14 @@ description: 'This file contains information regarding recitation 7 notes: equat
   of motion for cart & pendulum (lagrange).'
 draft: false
 file: /courses/2-003sc-engineering-dynamics-fall-2011/b937cb799870918bcf20b4043f046b80_MIT2_003SCF11_rec7notes1.pdf
-file_size: ''
+file_size: 1226248
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Recitation Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Finding Equations of Motion for Rigid Body Rotation

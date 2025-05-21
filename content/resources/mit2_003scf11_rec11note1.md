@@ -4,14 +4,14 @@ description: 'This file contains information regarding recitation 11 notes: doub
   pendulum system.'
 draft: false
 file: /courses/2-003sc-engineering-dynamics-fall-2011/9489ed1826287bc2d2200b0c5bbcbeb4_MIT2_003SCF11_rec11note1.pdf
-file_size: ''
+file_size: 752140
 file_type: application/pdf
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Lecture Notes
+- Recitation Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Vibration of Multi-Degree-of-Freedom Systems
