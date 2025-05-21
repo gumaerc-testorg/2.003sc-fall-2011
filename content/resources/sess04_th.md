@@ -3,6 +3,7 @@ content_type: resource
 description: Computer-generated free body diagrams for an elevator. Image courtesy
   of Waifer X on Flickr.
 file: /courses/2-003sc-engineering-dynamics-fall-2011/49ba4697a96dbf069a64e4fd5fc93ff3_sess04_th.jpg
+file_size: 3592
 file_type: image/jpeg
 image_metadata:
   caption: Computer-generated free body diagrams for an elevator.
