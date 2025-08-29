@@ -3,7 +3,7 @@ content_type: resource
 description: 'This information contains information regarding problem set 11: problem
   solutions and explanations.'
 draft: false
-file: /courses/2-003sc-engineering-dynamics-fall-2011/b49041b538d1d2b4e8b4b2b5d439de09_MIT2_003SCF11_pset11_conc_sol.pdf
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/b49041b538d1d2b4e8b4b2b5d439de09_MIT2_003SCF11_pset11_conc_sol.pdf
 file_size: 674428
 file_type: application/pdf
 image_metadata:
