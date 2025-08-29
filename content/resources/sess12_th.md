@@ -2,7 +2,7 @@
 content_type: resource
 description: The ripples on this pond are an example of superposed waves that will
   soon disperse. Image courtesy of John Martin on Flickr.
-file: /courses/2-003sc-engineering-dynamics-fall-2011/539a0a6c7a5af345f44e207e441ceecd_sess12_th.jpg
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/539a0a6c7a5af345f44e207e441ceecd_sess12_th.jpg
 file_size: 3762
 file_type: image/jpeg
 image_metadata:

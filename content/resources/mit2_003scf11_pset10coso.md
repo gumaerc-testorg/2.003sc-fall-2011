@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file contains information regarding problem set 10: concept question
   answer key.'
 draft: false
-file: /courses/2-003sc-engineering-dynamics-fall-2011/85178b96f08ed6f603eecde557083cba_MIT2_003SCF11_pset10CoSo.pdf
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/85178b96f08ed6f603eecde557083cba_MIT2_003SCF11_pset10CoSo.pdf
 file_size: 730743
 file_type: application/pdf
 image_metadata:

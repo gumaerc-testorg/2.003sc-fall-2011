@@ -3,7 +3,7 @@ content_type: resource
 description: Balance scales are simple tools that can give the mass of an object relative
   to another object through finding the equilibrium point. Image courtesy of Lichfield
   District Council on Flickr.
-file: /courses/2-003sc-engineering-dynamics-fall-2011/996e129232b0c5ad240afde6bfa6619b_sess10_th.jpg
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/996e129232b0c5ad240afde6bfa6619b_sess10_th.jpg
 file_size: 3068
 file_type: image/jpeg
 image_metadata:

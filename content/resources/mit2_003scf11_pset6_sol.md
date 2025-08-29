@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Problem Set 6: Problem Solutions with Explanations'
 draft: false
-file: /courses/2-003sc-engineering-dynamics-fall-2011/53aae5f3ec09acfb67a14cecd8167612_MIT2_003SCF11_pset6_sol.pdf
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/53aae5f3ec09acfb67a14cecd8167612_MIT2_003SCF11_pset6_sol.pdf
 file_size: 528565
 file_type: application/pdf
 image_metadata:

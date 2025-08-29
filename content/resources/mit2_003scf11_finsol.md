@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding final exam solutions.
 draft: false
-file: /courses/2-003sc-engineering-dynamics-fall-2011/150be0ee05330a8edbc57046f57f21ce_MIT2_003SCF11_finSol.pdf
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/150be0ee05330a8edbc57046f57f21ce_MIT2_003SCF11_finSol.pdf
 file_size: 215975
 file_type: application/pdf
 image_metadata:
