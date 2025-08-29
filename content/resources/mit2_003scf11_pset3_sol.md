@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Problem Set 3: Problem Solutions with Explanations.'
 draft: false
-file: /courses/2-003sc-engineering-dynamics-fall-2011/a4092e8cb07618b2182d609dee599ef9_MIT2_003SCF11_pset3_sol.pdf
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/a4092e8cb07618b2182d609dee599ef9_MIT2_003SCF11_pset3_sol.pdf
 file_size: 806039
 file_type: application/pdf
 image_metadata:

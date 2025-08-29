@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding quiz 2 solutions.
 draft: false
-file: /courses/2-003sc-engineering-dynamics-fall-2011/84c208c9c48ad9bdd2f7bb832ceae96c_MIT2_003SCF11_quiz2_sol.pdf
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/84c208c9c48ad9bdd2f7bb832ceae96c_MIT2_003SCF11_quiz2_sol.pdf
 file_size: 585333
 file_type: application/pdf
 image_metadata:

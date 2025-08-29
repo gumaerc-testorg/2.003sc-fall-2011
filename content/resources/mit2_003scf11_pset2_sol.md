@@ -3,7 +3,7 @@ content_type: resource
 description: 'This file contains information regarding problem set 2: problems and
   concept questions.'
 draft: false
-file: /courses/2-003sc-engineering-dynamics-fall-2011/e2a0002858dc5936f7332cee0377eb70_MIT2_003SCF11_pset2_sol.pdf
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/e2a0002858dc5936f7332cee0377eb70_MIT2_003SCF11_pset2_sol.pdf
 file_size: 958833
 file_type: application/pdf
 image_metadata:

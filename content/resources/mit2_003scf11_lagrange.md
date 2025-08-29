@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains information regarding lagrange handout.
 draft: false
-file: /courses/2-003sc-engineering-dynamics-fall-2011/d1984062464dcc3df68b5741fd37192b_MIT2_003SCF11_Lagrange.pdf
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/d1984062464dcc3df68b5741fd37192b_MIT2_003SCF11_Lagrange.pdf
 file_size: 1174401
 file_type: application/pdf
 image_metadata:
