@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-003sc-engineering-dynamics-fall-2011/96715c10f63e761c8782752392d5f322_ZNVvYg1FOPk.pdf
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/96715c10f63e761c8782752392d5f322_ZNVvYg1FOPk.pdf
 file_size: 94411
 file_type: application/pdf
 learning_resource_types: []

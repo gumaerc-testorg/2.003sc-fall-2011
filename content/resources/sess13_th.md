@@ -2,7 +2,7 @@
 content_type: resource
 description: Piano strings are each chosen and tuned such that they have a specific
   natural frequency. Image courtesy of Maruku San on Flickr.
-file: /courses/2-003sc-engineering-dynamics-fall-2011/de81a5530ab6f50f99f00691c977edc1_sess13_th.jpg
+file: /ol-ocw-studio-app/courses/2-003sc-engineering-dynamics-fall-2011/de81a5530ab6f50f99f00691c977edc1_sess13_th.jpg
 file_size: 5612
 file_type: image/jpeg
 image_metadata:
