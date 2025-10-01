@@ -25,7 +25,7 @@ Session Overview
 Covered this week:  
 In week 9, we continue to study Lagrange equations with an emphasis on finding generalized forces.
 
-The shape of this bubble corresponds to a solution of the Lagrange equations. Image courtesy of [whologwhy](http://www.flickr.com/photos/60417477@N00/5484388334/) on Flickr.
+The shape of this bubble corresponds to a solution of the Lagrange equations. Image courtesy of {{% resource_link "012b84f3-021f-4b2e-87b0-5032c591e060" "whologwhy" %}} on Flickr.
 
 
 {{< tdclose >}}

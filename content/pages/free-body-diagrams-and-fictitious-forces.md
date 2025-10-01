@@ -25,7 +25,7 @@ Session Overview
 Covered this week:  
 In week 4, we practice using free body diagrams to help us find equations of motion. We do several example problems. We discuss the concept of a fictitious force as well as the hazards in using them.
 
-Computer-generated free body diagrams for a moving elevator. Image courtesy of [Waifer X](http://www.flickr.com/photos/waiferx/5948206825/) on Flickr.
+Computer-generated free body diagrams for a moving elevator. Image courtesy of {{% resource_link "638c8bca-8039-4a52-b9c2-12ea98783788" "Waifer X" %}} on Flickr.
 
 
 {{< tdclose >}}

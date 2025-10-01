@@ -25,7 +25,7 @@ Session Overview
 Covered this week:  
 Week 6 addresses the angular momentum of rigid bodies. First we examine the moment of inertia of a rigid body and use it to express the angular momentum of rigid bodies. We then address finding the equations of motion for rotating rigid bodies and discuss problem solving strategies. We break down typical problems into four different classes and present example problems for each class of problems. Finally, we introduce a more powerful formulation of the torque equation for rigid bodies.
 
-Spinning tops are an example of a rotating rigid body often used as a children’s toy. Image courtesy of [Sean Dreilinger](http://www.flickr.com/photos/43927576@N00/724052081/) on Flickr.
+Spinning tops are an example of a rotating rigid body often used as a children’s toy. Image courtesy of {{% resource_link "afd5a4aa-662e-4bed-a203-c568f5724d9a" "Sean Dreilinger" %}} on Flickr.
 
 
 {{< tdclose >}}
