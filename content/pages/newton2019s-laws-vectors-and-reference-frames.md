@@ -24,7 +24,7 @@ Session Overview
 
 In week 1, we introduce Newton's three laws of motion. We use them to write an equation of motion. Equations of motion require the evaluation of displacements, velocities, and accelerations. The study of motion is called kinematics. In this course, we use vectors to describe the motion of rigid bodies. The equations for vector displacements, velocities, and accelerations are developed in the first week.
 
-Billiards is a game that requires a familiarity with Newton's laws. Image courtesy of [fictures](http://www.flickr.com/photos/fictures/5969746/) on Flickr.
+Billiards is a game that requires a familiarity with Newton's laws. Image courtesy of {{% resource_link "130fa30d-c17e-4006-bae6-2195f8b40e88" "fictures" %}} on Flickr.
 
 
 {{< tdclose >}}

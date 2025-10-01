@@ -25,7 +25,7 @@ Session Overview
 Covered this week:  
 This week we introduce the concept of mode superposition. The vibration of N-DOF linear systems can be modeled as the superposition of the response of N Single DOF oscillators.
 
-The ripples on this pond are an example of superposed waves that will soon disperse. Image courtesy of [John Martin](http://www.flickr.com/photos/63586135@N00/4266351498/) on Flickr.
+The ripples on this pond are an example of superposed waves that will soon disperse. Image courtesy of {{% resource_link "adc0835a-3c17-4b19-bcab-6402a928bde7" "John Martin" %}} on Flickr.
 
 
 {{< tdclose >}}

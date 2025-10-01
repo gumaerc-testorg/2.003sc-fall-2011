@@ -25,7 +25,7 @@ Session Overview
 Covered this week:  
 Week 3 continues with more difficult examples of the computation of velocity and acceleration in translating and rotating frames. Angular momentum is introduced and the general formulation of the relation between torque and the time rate of change of angular momentum is introduced, including cases where the angular momentum is computed with respect to moving parts. Two very important cases are discussed: torque and angular momentum with respect to fixed axes of rotation and with respect to the center of mass.
 
-The principles presented this week explain why the passengers on this swing ride feel an upward lift as the central structure whirls. Image courtesy of [Hillbraith](http://www.flickr.com/photos/57458501@N00/2889312299/) on Flickr.
+The principles presented this week explain why the passengers on this swing ride feel an upward lift as the central structure whirls. Image courtesy of {{% resource_link "ce20ab77-743a-40bc-8668-6d2a058ab00b" "Hillbraith" %}} on Flickr.
 
 
 {{< tdclose >}}
