@@ -25,7 +25,7 @@ Session Overview
 Covered this week:  
 In week 2, we continue with the study of Newton's laws. We reviewed the third law and its application to finding the center of mass. Next, we take up the topic of kinematics in translating and rotating frames. In lecture 4, we do a series of examples where velocity and acceleration using polar and cylindrical coordinates, then ending with an introduction to normal and tangential unit vectors.
 
-A male gymnast completes a complicated move involving simultaneous rotation and translation. Image courtesy of [Singapore 2010 Youth Olympic Games](http://www.flickr.com/photos/singapore2010/4916726882/).
+A male gymnast completes a complicated move involving simultaneous rotation and translation. Image courtesy of {{% resource_link "f4133153-71a6-4f88-aad3-49fb450d803c" "Singapore 2010 Youth Olympic Games" %}}.
 
 
 {{< tdclose >}}

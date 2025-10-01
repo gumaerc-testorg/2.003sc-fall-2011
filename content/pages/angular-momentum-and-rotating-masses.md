@@ -27,7 +27,7 @@ In week 5, we introduce the concept of mass moment of inertia as the summation o
 
 There is no problem set this week.
 
-A street performer in Quebec City juggles torches by repeatedly throwing and rotating the burning rods. Image courtesy of [Reza Vaziri](http://www.flickr.com/photos/60309376@N00/1400683166/) on Flickr.
+A street performer in Quebec City juggles torches by repeatedly throwing and rotating the burning rods. Image courtesy of {{% resource_link "9003fdb4-b0c7-4e41-be16-bfaf6e72d330" "Reza Vaziri" %}} on Flickr.
 
 
 {{< tdclose >}}

@@ -25,7 +25,7 @@ Session Overview
 Covered this week:  
 This week we apply modal superposition to the analysis of the response of multi-dof systems to initial conditions and to excitation by steady state harmonic forces.
 
-Piano strings are each chosen and tuned such that they have a specific natural frequency. Image courtesy of [Maruku San](http://www.flickr.com/photos/marukusan/2077906257/) on Flickr.
+Piano strings are each chosen and tuned such that they have a specific natural frequency. Image courtesy of {{% resource_link "2af96d77-2dc6-49eb-b7c3-e9699be92a76" "Maruku San" %}} on Flickr.
 
 
 {{< tdclose >}}
